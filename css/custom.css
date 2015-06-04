@@ -675,17 +675,19 @@ nav {
 
 }
 
+/* I've edited this bit here... */
+
 .description h2 {
 
-    font-size: 60px;
+    /*font-size: 60px;*/
 
     text-transform: uppercase;
 
-    letter-spacing: 17px;
+/*    letter-spacing: 14px;
 
     font-weight: 100;
 
-    display: block;
+    display: block;*/
 
     width: 90%;
 

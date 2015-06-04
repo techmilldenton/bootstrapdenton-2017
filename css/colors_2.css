@@ -366,9 +366,9 @@ footer .first_line,
 
 .fill_mask {
 
-    background-color: rgba(0, 0, 0, 0.55);
+    background-color: rgba(0, 0, 0, 0.05);
 
-    background-image: url('../images/mask.svg');
+    /*background-image: url('../images/mask.svg');*/
 
 }
 
