@@ -2324,6 +2324,8 @@ a.contact_icon {
 
     border-width: 3px;
 
+    border-radius: 13px;
+
     font-size: 28px;
 
     padding-top: 6px;
@@ -2334,13 +2336,13 @@ a.contact_icon {
 
     margin-right: 20px;
 
-    -webkit-transition: all .5s ease-in-out;
+    -webkit-transition: all .2s ease-in-out;
 
-    -moz-transition: all .5s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
 
-    -o-transition: all .5s ease-in-out;
+    -o-transition: all .2s ease-in-out;
 
-    transition: all .5s ease-in-out;
+    transition: all .2s ease-in-out;
 
     text-decoration: none;
 
@@ -2375,13 +2377,13 @@ a.contact_icon {
     
     text-decoration: none;
     
-    -webkit-transition: all .5s ease-in-out;
+    -webkit-transition: all .2s ease-in-out;
 
-    -moz-transition: all .5s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
 
-    -o-transition: all .5s ease-in-out;
+    -o-transition: all .2s ease-in-out;
 
-    transition: all .5s ease-in-out;
+    transition: all .2s ease-in-out;
 
 }
 

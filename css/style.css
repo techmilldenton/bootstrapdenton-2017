@@ -48,6 +48,16 @@
 	font-family: 'Bitter', monospace;
 }
 
+.experiment {
+	background: -webkit-linear-gradient(#5680A1, #5EEDFE);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: 'Bitter', monospace;
+  /* font-weight: 400; */
+  /* font-size: 68px; */
+  text-shadow: 15px -15px 1px rgba(0,255,100,0.3);
+}
+
 
 /*Responsive Hero Text*/
 
