@@ -11,3 +11,6 @@ facebook_username:  techmilldenton
 
 # Build settings
 markdown: kramdown
+
+# Analytics
+google_analytics: UA-51689839-2
