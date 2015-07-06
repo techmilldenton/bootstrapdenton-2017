@@ -1,20 +1,22 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+  <body class="enable-animations enable-preloader">
+    <div id="document" class="document">
 
-    {% include header.html %}
+      {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
+      <div class="page-content">
+        <div class="wrapper">
+          {{ content }}
+        </div>
       </div>
+
+      {% include footer.html %}
+      {% include scripts.html %}
     </div>
-
-    {% include footer.html %}
-
   </body>
 
 </html>
