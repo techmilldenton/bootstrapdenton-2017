@@ -407,6 +407,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/backgrounds\/whiteboard-harvest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.04298e+06,
+		"inputAbbreviatedPath": "\/_site\/images\/backgrounds\/whiteboard-harvest.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/backgrounds\/whiteboard-harvest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/BootStrap Denton\/IMG_0144.JPG": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1254,6 +1265,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/speakers\/codenton.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52473,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/codenton.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/codenton.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/speakers\/codenton@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108374,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/codenton@2x.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/codenton@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/speakers\/techmill.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48475,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/techmill.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/techmill.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/speakers\/techmill@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76284,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/techmill@2x.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/techmill@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1659,6 +1714,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/images\/backgrounds\/whiteboard-harvest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.04298e+06,
+		"inputAbbreviatedPath": "\/images\/backgrounds\/whiteboard-harvest.jpg",
+		"outputAbbreviatedPath": "\/images\/backgrounds\/whiteboard-harvest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/images\/BootStrap Denton\/IMG_0144.JPG": {
 		"fileType": 16384,
@@ -2506,6 +2572,50 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/images\/speakers\/codenton.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108374,
+		"inputAbbreviatedPath": "\/images\/speakers\/codenton.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/codenton.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/speakers\/codenton@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108374,
+		"inputAbbreviatedPath": "\/images\/speakers\/codenton@2x.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/codenton@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/speakers\/techmill.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76284,
+		"inputAbbreviatedPath": "\/images\/speakers\/techmill.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/techmill.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/speakers\/techmill@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76284,
+		"inputAbbreviatedPath": "\/images\/speakers\/techmill@2x.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/techmill@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/index.html": {
 		"fileType": 8192,
