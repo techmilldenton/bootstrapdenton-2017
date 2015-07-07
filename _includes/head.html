@@ -11,8 +11,19 @@
 		<!-- BASIC INFO -->
 		<title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 		<meta name="author" content="Bootstrap Denton">
-		<meta name="keywords" content="bootstrap, denton, techmill, tech, startups, startup, coworking, entrepreneur, community">
-		<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+
+    {% if page.desc %}
+      <meta name="description" content="{{ page.desc }}" >
+    {% else %}
+      <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    {% endif %}
+
+    {% if page.keywords %}
+      <meta name="keywords" content="{{ page.keywords }}" >
+    {% else %}
+      <meta name="keywords" content="bootstrap, denton, techmill, tech, startups, startup, coworking, entrepreneur, community">
+    {% endif %}
 
 		<!-- FAVICONS -->
 		<link rel="icon" href="images/favicons/favicon.ico">

@@ -3,6 +3,9 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-07-05 19:33:36
 categories: jekyll update
+desc: "Setting your meta keywords and descriptions will have an impact not only on your search engine rankings but on the ability of people being able to find your content."
+slug: "jekyll_metas"
+keywords: "jekyll, meta, keywords, description, seo, tutorial, automate, Dave McNally, davemcnally"
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
