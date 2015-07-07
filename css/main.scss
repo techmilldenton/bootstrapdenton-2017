@@ -24,6 +24,20 @@
   }
 }
 
+// Theme colors
+$blue: #50A0DC;
+$green: #AFC873;
+$orange: #F3AE73;
+$pink: #F08CAA;
+$red: #DA645A;
+$turquoise: #73CDC8;
+$yellow: #D7C369;
+
+// Change preferred theme color here.
+$color: $orange;
+
+$color-dark: darken($color, 5%);
+$color-darker: darken($color, 10%);
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)

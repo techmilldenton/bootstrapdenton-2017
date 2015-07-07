@@ -235,6 +235,28 @@ iframe {
 
 /**
  * ========================================
+ * COLORS & FONTS
+ * ========================================
+ */
+
+.color-primary {
+  color: $color;
+}
+.font-pacifico {
+  font-family: "Pacifico";
+}
+.lowercase {
+  text-transform: lowercase;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.capitalize {
+  text-transform: capitalize;
+}
+
+/**
+ * ========================================
  * BASIC LAYOUT
  * ========================================
  */
@@ -1228,6 +1250,15 @@ iframe {
   text-transform: uppercase;
   letter-spacing: 0.05em;
   margin-bottom: 20px;
+}
+
+.hero-date {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
 }
 
 .hero-tagline {
