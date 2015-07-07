@@ -1287,6 +1287,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/speakers\/hubspoke.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62858,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/hubspoke.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/hubspoke.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/speakers\/hubspoke@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 185076,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/hubspoke@2x.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/hubspoke@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/speakers\/techmill.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1305,6 +1327,28 @@
 		"initialSize": 76284,
 		"inputAbbreviatedPath": "\/_site\/images\/speakers\/techmill@2x.png",
 		"outputAbbreviatedPath": "\/_site\/images\/speakers\/techmill@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/speakers\/trucrowd.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48327,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/trucrowd.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/trucrowd.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/speakers\/trucrowd@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93028,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/trucrowd@2x.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/trucrowd@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2595,6 +2639,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/speakers\/dmc@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26299,
+		"inputAbbreviatedPath": "\/images\/speakers\/dmc@2x.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/dmc@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/speakers\/hubspoke.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 185076,
+		"inputAbbreviatedPath": "\/images\/speakers\/hubspoke.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/hubspoke.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/speakers\/hubspoke@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 185076,
+		"inputAbbreviatedPath": "\/images\/speakers\/hubspoke@2x.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/hubspoke@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/speakers\/techmill.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2613,6 +2690,28 @@
 		"initialSize": 76284,
 		"inputAbbreviatedPath": "\/images\/speakers\/techmill@2x.png",
 		"outputAbbreviatedPath": "\/images\/speakers\/techmill@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/speakers\/trucrowd.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93028,
+		"inputAbbreviatedPath": "\/images\/speakers\/trucrowd.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/trucrowd.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/speakers\/trucrowd@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93028,
+		"inputAbbreviatedPath": "\/images\/speakers\/trucrowd@2x.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/trucrowd@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
