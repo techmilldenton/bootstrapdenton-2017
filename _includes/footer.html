@@ -141,32 +141,30 @@
       <h3 class="footer-logo">
         <img src="/images/logos/footer-logo.png" srcset="/images/logos/footer-logo@2x.png 2x" alt="Bootstrap Denton">
       </h3>
-      <ul class="contact-list">
-        <li>{{ site.title }}</li>
-        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-      </ul>
     </div>
 
     <div col-md-4>
       <div class="footer-socmed">
+        <a href="mailto:{{ site.email }}">
+          <span class="icon fa fa-paper-plane"></span>
+        </a>
         {% if site.facebook_username %}
         <a href="https://facebook.com/{{ site.facebook_username }}" target="_blank">
-          <span class="icon fa fa-facebook"></span><span class="username">{{ site.facebook_username }}</span>
+          <span class="icon fa fa-facebook"></span>
         </a>
         {% endif %}
         {% if site.twitter_username %}
         <a href="https://twitter.com/{{ site.twitter_username }}">
-          <span class="icon fa fa-twitter"></span><span class="username">{{ site.twitter_username }}</span>
+          <span class="icon fa fa-twitter"></span>
         </a>
         {% endif %}
         {% if site.github_username %}
         <a href="https://github.com/{{ site.github_username }}" target="_blank">
-          <span class="icon fa fa-github"></span><span class="username">{{ site.github_username }}</span>
+          <span class="icon fa fa-github"></span>
         </a>
         {% endif %}
         <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
           <span class="icon fa fa-rss"></span>
-          <span class="username">subscribe via RSS</span>
         </a>
       </div>
     </div>

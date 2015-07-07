@@ -6,7 +6,7 @@
 		var $window = $( window ),
 			$body = $( 'body' ),
 			$document = $( document ),
-			drew = {
+			bootstrapdenton = {
 				headerFloatingHeight : 60,
 			};
 
@@ -283,7 +283,7 @@
 
 			if ( $target.length < 1 ) return;
 
-			$( 'html, body' ).animate({ scrollTop: Math.max( 0, $target.offset().top - drew.headerFloatingHeight ) }, 1000 );
+			$( 'html, body' ).animate({ scrollTop: Math.max( 0, $target.offset().top - bootstrapdenton.headerFloatingHeight ) }, 1000 );
 		});
 
 		/**

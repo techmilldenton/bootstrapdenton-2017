@@ -7,7 +7,9 @@ $red: #DA645A;
 $turquoise: #73CDC8;
 $yellow: #D7C369;
 
-$color: $yellow;
+// Change preferred theme color here.
+$color: $orange;
+
 $color-dark: darken($color, 5%);
 $color-darker: darken($color, 10%);
 
