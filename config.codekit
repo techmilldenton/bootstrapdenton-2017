@@ -427,6 +427,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/bd-og.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 433527,
+		"inputAbbreviatedPath": "\/_site\/images\/bd-og.png",
+		"outputAbbreviatedPath": "\/_site\/images\/bd-og.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/BootStrap Denton\/IMG_0144.JPG": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1795,6 +1806,17 @@
 		"initialSize": 1.04298e+06,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/whiteboard-harvest.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/whiteboard-harvest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/bd-og-1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 433527,
+		"inputAbbreviatedPath": "\/images\/bd-og-1.png",
+		"outputAbbreviatedPath": "\/images\/bd-og-1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
