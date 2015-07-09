@@ -13,7 +13,7 @@
 		<meta property="og:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
 
     <meta name="author" content="Bootstrap Denton">
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   	<meta property="og:image" content="http://www.bootstrapdenton.com/images/bd-og-1.png">
   	<meta property="twitter:creator" content="{{ site.twitter_username }}">
   	<meta property="twitter:site" content="{{ site.twitter_username }}">

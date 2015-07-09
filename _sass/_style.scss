@@ -2243,8 +2243,19 @@ iframe {
   text-align: center;
 }
 
-.section-accent .faq-item-icon {
-  color: #222;
+.faq-item-icon-inline {
+  display: inline-block;
+  width: 32px;
+  margin-right: 15px;
+  font-size: 32px;
+  line-height: 1;
+  text-align: center;
+}
+
+.section-accent {
+  .faq-item-icon, .faq-item-icon-inline {
+    color: $color;
+  }
 }
 
 .faq-item-heading {

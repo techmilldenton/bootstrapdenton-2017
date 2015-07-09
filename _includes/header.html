@@ -25,12 +25,10 @@
       <ul id="header-nav" class="nav navbar-nav">
 
         <li><a href="#hero" class="hidden">Top</a></li>
-        {% if page.layout == 'default' %}
-          <li><a href="#about">About</a></li>
-          <li><a href="#benefits">Benefits</a></li>
-          <li><a href="#how-it-works">How it Works</a></li>
-          <li><a href="#team">The Team</a></li>
-          <li><a href="#pricing">Pricing</a></li>
+        {% if page.layout == 'index' %}
+          <li><a href="#event">Event</a></li>
+          <li><a href="#speakers">Speakers</a></li>
+          <li><a href="#faq">FAQ</a></li>
         {% else %}
           <li><a href="{{ site.baseurl }}/" class="">Home</a></li>
         {% endif %}
