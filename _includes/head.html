@@ -10,13 +10,20 @@
 
 		<!-- BASIC INFO -->
 		<title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-		<meta name="author" content="Bootstrap Denton">
+		<meta property="og:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
 
+    <meta name="author" content="Bootstrap Denton">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  	<meta property="og:image" content="http://www.bootstrapdenton.com/images/bd-og.png">
+  	<meta property="twitter:creator" content="{{ site.twitter_username }}">
+  	<meta property="twitter:site" content="{{ site.twitter_username }}">
 
     {% if page.desc %}
       <meta name="description" content="{{ page.desc }}" >
+      <meta property="og:description" content="{{ page.desc }}">
     {% else %}
-      <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+      <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_newlines }}{% endif %}">
+      <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_newlines }}{% endif %}">
     {% endif %}
 
     {% if page.keywords %}

@@ -1,5 +1,5 @@
 # Site settings
-title: BootstrapDenton
+title: Bootstrap Denton
 email: info@techmill.co
 description: > # this means to ignore newlines until "baseurl:"
   Bootstrap Denton is a series of events designed to create networking opporunities, and educate entrepreneurs, and support our growing startup community.
@@ -14,3 +14,4 @@ markdown: kramdown
 
 # Analytics
 google_analytics: UA-51689839-2
+disqus_shortname: techmill
