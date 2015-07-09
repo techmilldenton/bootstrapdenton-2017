@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2015-07-05 19:33:36
+date: 2015-07-05 19:33:36
 categories: jekyll update
 desc: "Setting your meta keywords and descriptions will have an impact not only on your search engine rankings but on the ability of people being able to find your content."
 slug: "jekyll_metas"
