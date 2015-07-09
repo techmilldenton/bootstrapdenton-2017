@@ -1616,23 +1616,23 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 74382,
+		"initialSize": 73042,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/closing-bg.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/closing-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/backgrounds\/east-side.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 424303,
+		"initialSize": 401871,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/east-side.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/east-side.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/backgrounds\/harvest-house-pixel.jpg": {
 		"fileType": 16384,
@@ -1643,216 +1643,216 @@
 		"outputAbbreviatedPath": "\/images\/backgrounds\/harvest-house-pixel.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/backgrounds\/harvest-house.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 251189,
+		"initialSize": 225506,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/harvest-house.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/harvest-house.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/backgrounds\/hero-bg-features-and-form.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 48471,
+		"initialSize": 47174,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-features-and-form.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-features-and-form.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/backgrounds\/hero-bg-fullscreen-cta-and-countdown.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 42962,
+		"initialSize": 42091,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-fullscreen-cta-and-countdown.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-fullscreen-cta-and-countdown.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/backgrounds\/hero-bg-fullscreen-cta.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 67224,
+		"initialSize": 65938,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-fullscreen-cta.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-fullscreen-cta.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/backgrounds\/hero-bg-fullscreen-subscription-form-and-countdown.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 100166,
+		"initialSize": 99195,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-fullscreen-subscription-form-and-countdown.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-fullscreen-subscription-form-and-countdown.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/backgrounds\/hero-bg-fullscreen-subscription-form.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 59721,
+		"initialSize": 58416,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-fullscreen-subscription-form.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-fullscreen-subscription-form.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/backgrounds\/hero-bg-product-image-and-cta.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 26203,
+		"initialSize": 25373,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-product-image-and-cta.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-product-image-and-cta.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/backgrounds\/hero-bg-slider-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 50781,
+		"initialSize": 49944,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-slider-1.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-slider-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/backgrounds\/hero-bg-slider-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 60491,
+		"initialSize": 59657,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-slider-2.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-slider-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/backgrounds\/hero-bg-slideshow-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 64009,
+		"initialSize": 63067,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-slideshow-1.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-slideshow-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/backgrounds\/hero-bg-slideshow-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 103111,
+		"initialSize": 102176,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-slideshow-2.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-slideshow-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/backgrounds\/hero-bg-slideshow-3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 113092,
+		"initialSize": 112170,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-slideshow-3.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-slideshow-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/backgrounds\/hero-bg-video-and-features-cta.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 42700,
+		"initialSize": 41396,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-video-and-features-cta.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-video-and-features-cta.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/backgrounds\/hero-bg-video-and-form.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 56621,
+		"initialSize": 55343,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-video-and-form.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-video-and-form.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/backgrounds\/hero-bg-video-and-subscription-form.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 89972,
+		"initialSize": 89050,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-video-and-subscription-form.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/hero-bg-video-and-subscription-form.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/backgrounds\/numbers-bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 58338,
+		"initialSize": 57014,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/numbers-bg.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/numbers-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/backgrounds\/testimonial-slider-bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 63262,
+		"initialSize": 62330,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/testimonial-slider-bg.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/testimonial-slider-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/backgrounds\/two-cols-description-bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 30075,
+		"initialSize": 29260,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/two-cols-description-bg.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/two-cols-description-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/backgrounds\/video-fallback-bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 40971,
+		"initialSize": 40164,
 		"inputAbbreviatedPath": "\/images\/backgrounds\/video-fallback-bg.jpg",
 		"outputAbbreviatedPath": "\/images\/backgrounds\/video-fallback-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/backgrounds\/whiteboard-harvest.jpg": {
 		"fileType": 16384,
@@ -1880,45 +1880,45 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2.90046e+06,
+		"initialSize": 2.808e+06,
 		"inputAbbreviatedPath": "\/images\/BootStrap Denton\/IMG_0144.JPG",
 		"outputAbbreviatedPath": "\/images\/BootStrap Denton\/IMG_0144.JPG",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/BootStrap Denton\/IMG_0146.JPG": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2.741e+06,
+		"initialSize": 2.67182e+06,
 		"inputAbbreviatedPath": "\/images\/BootStrap Denton\/IMG_0146.JPG",
 		"outputAbbreviatedPath": "\/images\/BootStrap Denton\/IMG_0146.JPG",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/BootStrap Denton\/IMG_0152.JPG": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2.57478e+06,
+		"initialSize": 2.5161e+06,
 		"inputAbbreviatedPath": "\/images\/BootStrap Denton\/IMG_0152.JPG",
 		"outputAbbreviatedPath": "\/images\/BootStrap Denton\/IMG_0152.JPG",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/BootStrap Denton\/IMG_0154.JPG": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2.56335e+06,
+		"initialSize": 2.50483e+06,
 		"inputAbbreviatedPath": "\/images\/BootStrap Denton\/IMG_0154.JPG",
 		"outputAbbreviatedPath": "\/images\/BootStrap Denton\/IMG_0154.JPG",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/BootStrap Denton\/IMG_0155.JPG": {
 		"fileType": 16384,
@@ -1979,199 +1979,199 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 7944,
+		"initialSize": 7099,
 		"inputAbbreviatedPath": "\/images\/contents\/about.jpg",
 		"outputAbbreviatedPath": "\/images\/contents\/about.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/hiw-item-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4251,
+		"initialSize": 3409,
 		"inputAbbreviatedPath": "\/images\/contents\/hiw-item-1.jpg",
 		"outputAbbreviatedPath": "\/images\/contents\/hiw-item-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/hiw-item-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4036,
+		"initialSize": 3200,
 		"inputAbbreviatedPath": "\/images\/contents\/hiw-item-2.jpg",
 		"outputAbbreviatedPath": "\/images\/contents\/hiw-item-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/hiw-item-3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4251,
+		"initialSize": 3409,
 		"inputAbbreviatedPath": "\/images\/contents\/hiw-item-3.jpg",
 		"outputAbbreviatedPath": "\/images\/contents\/hiw-item-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/hiw-item-4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4036,
+		"initialSize": 3200,
 		"inputAbbreviatedPath": "\/images\/contents\/hiw-item-4.jpg",
 		"outputAbbreviatedPath": "\/images\/contents\/hiw-item-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/map-1.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2599,
+		"initialSize": 2189,
 		"inputAbbreviatedPath": "\/images\/contents\/map-1.png",
 		"outputAbbreviatedPath": "\/images\/contents\/map-1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/map-2.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2534,
+		"initialSize": 2123,
 		"inputAbbreviatedPath": "\/images\/contents\/map-2.png",
 		"outputAbbreviatedPath": "\/images\/contents\/map-2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/map-3.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4693,
+		"initialSize": 4322,
 		"inputAbbreviatedPath": "\/images\/contents\/map-3.png",
 		"outputAbbreviatedPath": "\/images\/contents\/map-3.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/map-4.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4583,
+		"initialSize": 4200,
 		"inputAbbreviatedPath": "\/images\/contents\/map-4.png",
 		"outputAbbreviatedPath": "\/images\/contents\/map-4.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/map-blank.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3991,
+		"initialSize": 3715,
 		"inputAbbreviatedPath": "\/images\/contents\/map-blank.png",
 		"outputAbbreviatedPath": "\/images\/contents\/map-blank.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/portfolio-item-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4251,
+		"initialSize": 3409,
 		"inputAbbreviatedPath": "\/images\/contents\/portfolio-item-1.jpg",
 		"outputAbbreviatedPath": "\/images\/contents\/portfolio-item-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/portfolio-item-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4036,
+		"initialSize": 3200,
 		"inputAbbreviatedPath": "\/images\/contents\/portfolio-item-2.jpg",
 		"outputAbbreviatedPath": "\/images\/contents\/portfolio-item-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/portfolio-item-3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4251,
+		"initialSize": 3409,
 		"inputAbbreviatedPath": "\/images\/contents\/portfolio-item-3.jpg",
 		"outputAbbreviatedPath": "\/images\/contents\/portfolio-item-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/portfolio-item-4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4036,
+		"initialSize": 3200,
 		"inputAbbreviatedPath": "\/images\/contents\/portfolio-item-4.jpg",
 		"outputAbbreviatedPath": "\/images\/contents\/portfolio-item-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/portfolio-item-5.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4036,
+		"initialSize": 3200,
 		"inputAbbreviatedPath": "\/images\/contents\/portfolio-item-5.jpg",
 		"outputAbbreviatedPath": "\/images\/contents\/portfolio-item-5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/portfolio-item-6.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4251,
+		"initialSize": 3409,
 		"inputAbbreviatedPath": "\/images\/contents\/portfolio-item-6.jpg",
 		"outputAbbreviatedPath": "\/images\/contents\/portfolio-item-6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/portfolio-item-7.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4036,
+		"initialSize": 3200,
 		"inputAbbreviatedPath": "\/images\/contents\/portfolio-item-7.jpg",
 		"outputAbbreviatedPath": "\/images\/contents\/portfolio-item-7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/portfolio-item-8.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4251,
+		"initialSize": 3409,
 		"inputAbbreviatedPath": "\/images\/contents\/portfolio-item-8.jpg",
 		"outputAbbreviatedPath": "\/images\/contents\/portfolio-item-8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/product-image-1.png": {
 		"fileType": 32768,
@@ -2182,392 +2182,392 @@
 		"outputAbbreviatedPath": "\/images\/contents\/product-image-1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/sponsor-1.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4882,
+		"initialSize": 3964,
 		"inputAbbreviatedPath": "\/images\/contents\/sponsor-1.png",
 		"outputAbbreviatedPath": "\/images\/contents\/sponsor-1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/sponsor-1a.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3958,
+		"initialSize": 3182,
 		"inputAbbreviatedPath": "\/images\/contents\/sponsor-1a.png",
 		"outputAbbreviatedPath": "\/images\/contents\/sponsor-1a.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/sponsor-2.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2487,
+		"initialSize": 2236,
 		"inputAbbreviatedPath": "\/images\/contents\/sponsor-2.png",
 		"outputAbbreviatedPath": "\/images\/contents\/sponsor-2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/sponsor-2a.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2187,
+		"initialSize": 2015,
 		"inputAbbreviatedPath": "\/images\/contents\/sponsor-2a.png",
 		"outputAbbreviatedPath": "\/images\/contents\/sponsor-2a.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/sponsor-3.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3734,
+		"initialSize": 3287,
 		"inputAbbreviatedPath": "\/images\/contents\/sponsor-3.png",
 		"outputAbbreviatedPath": "\/images\/contents\/sponsor-3.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/sponsor-3a.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3129,
+		"initialSize": 2628,
 		"inputAbbreviatedPath": "\/images\/contents\/sponsor-3a.png",
 		"outputAbbreviatedPath": "\/images\/contents\/sponsor-3a.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/sponsor-4.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3674,
+		"initialSize": 3027,
 		"inputAbbreviatedPath": "\/images\/contents\/sponsor-4.png",
 		"outputAbbreviatedPath": "\/images\/contents\/sponsor-4.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/sponsor-4a.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3166,
+		"initialSize": 2605,
 		"inputAbbreviatedPath": "\/images\/contents\/sponsor-4a.png",
 		"outputAbbreviatedPath": "\/images\/contents\/sponsor-4a.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/team-member-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3482,
+		"initialSize": 2639,
 		"inputAbbreviatedPath": "\/images\/contents\/team-member-1.jpg",
 		"outputAbbreviatedPath": "\/images\/contents\/team-member-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/team-member-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3327,
+		"initialSize": 2483,
 		"inputAbbreviatedPath": "\/images\/contents\/team-member-2.jpg",
 		"outputAbbreviatedPath": "\/images\/contents\/team-member-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/team-member-3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3482,
+		"initialSize": 2639,
 		"inputAbbreviatedPath": "\/images\/contents\/team-member-3.jpg",
 		"outputAbbreviatedPath": "\/images\/contents\/team-member-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/team-member-4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3327,
+		"initialSize": 2483,
 		"inputAbbreviatedPath": "\/images\/contents\/team-member-4.jpg",
 		"outputAbbreviatedPath": "\/images\/contents\/team-member-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/team-member-5.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3482,
+		"initialSize": 2639,
 		"inputAbbreviatedPath": "\/images\/contents\/team-member-5.jpg",
 		"outputAbbreviatedPath": "\/images\/contents\/team-member-5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/team-member-6.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3327,
+		"initialSize": 2483,
 		"inputAbbreviatedPath": "\/images\/contents\/team-member-6.jpg",
 		"outputAbbreviatedPath": "\/images\/contents\/team-member-6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contents\/techmill-buttons.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 128533,
+		"initialSize": 100957,
 		"inputAbbreviatedPath": "\/images\/contents\/techmill-buttons.jpg",
 		"outputAbbreviatedPath": "\/images\/contents\/techmill-buttons.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/android-chrome-144x144.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 6202,
+		"initialSize": 4741,
 		"inputAbbreviatedPath": "\/images\/favicons\/android-chrome-144x144.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/android-chrome-144x144.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/android-chrome-192x192.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 8141,
+		"initialSize": 6283,
 		"inputAbbreviatedPath": "\/images\/favicons\/android-chrome-192x192.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/android-chrome-192x192.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/android-chrome-36x36.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1663,
+		"initialSize": 1356,
 		"inputAbbreviatedPath": "\/images\/favicons\/android-chrome-36x36.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/android-chrome-36x36.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/android-chrome-48x48.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2221,
+		"initialSize": 1825,
 		"inputAbbreviatedPath": "\/images\/favicons\/android-chrome-48x48.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/android-chrome-48x48.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/android-chrome-72x72.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3255,
+		"initialSize": 2549,
 		"inputAbbreviatedPath": "\/images\/favicons\/android-chrome-72x72.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/android-chrome-72x72.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/android-chrome-96x96.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4178,
+		"initialSize": 3244,
 		"inputAbbreviatedPath": "\/images\/favicons\/android-chrome-96x96.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/android-chrome-96x96.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/apple-touch-icon-114x114.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5006,
+		"initialSize": 3836,
 		"inputAbbreviatedPath": "\/images\/favicons\/apple-touch-icon-114x114.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/apple-touch-icon-114x114.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/apple-touch-icon-120x120.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5216,
+		"initialSize": 4044,
 		"inputAbbreviatedPath": "\/images\/favicons\/apple-touch-icon-120x120.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/apple-touch-icon-120x120.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/apple-touch-icon-144x144.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 6202,
+		"initialSize": 4741,
 		"inputAbbreviatedPath": "\/images\/favicons\/apple-touch-icon-144x144.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/apple-touch-icon-144x144.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/apple-touch-icon-152x152.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 6475,
+		"initialSize": 5015,
 		"inputAbbreviatedPath": "\/images\/favicons\/apple-touch-icon-152x152.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/apple-touch-icon-152x152.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/apple-touch-icon-180x180.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 7813,
+		"initialSize": 5975,
 		"inputAbbreviatedPath": "\/images\/favicons\/apple-touch-icon-180x180.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/apple-touch-icon-180x180.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/apple-touch-icon-57x57.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2601,
+		"initialSize": 2099,
 		"inputAbbreviatedPath": "\/images\/favicons\/apple-touch-icon-57x57.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/apple-touch-icon-57x57.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/apple-touch-icon-60x60.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2750,
+		"initialSize": 2177,
 		"inputAbbreviatedPath": "\/images\/favicons\/apple-touch-icon-60x60.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/apple-touch-icon-60x60.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/apple-touch-icon-72x72.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3255,
+		"initialSize": 2549,
 		"inputAbbreviatedPath": "\/images\/favicons\/apple-touch-icon-72x72.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/apple-touch-icon-72x72.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/apple-touch-icon-76x76.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3339,
+		"initialSize": 2710,
 		"inputAbbreviatedPath": "\/images\/favicons\/apple-touch-icon-76x76.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/apple-touch-icon-76x76.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/apple-touch-icon-precomposed.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 9018,
+		"initialSize": 6773,
 		"inputAbbreviatedPath": "\/images\/favicons\/apple-touch-icon-precomposed.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/apple-touch-icon-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/apple-touch-icon.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 7813,
+		"initialSize": 5975,
 		"inputAbbreviatedPath": "\/images\/favicons\/apple-touch-icon.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/apple-touch-icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/favicon-16x16.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1054,
+		"initialSize": 800,
 		"inputAbbreviatedPath": "\/images\/favicons\/favicon-16x16.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/favicon-16x16.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/favicon-32x32.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1520,
+		"initialSize": 1246,
 		"inputAbbreviatedPath": "\/images\/favicons\/favicon-32x32.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/favicon-32x32.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/favicon-96x96.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4178,
+		"initialSize": 3244,
 		"inputAbbreviatedPath": "\/images\/favicons\/favicon-96x96.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/favicon-96x96.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/manifest.json": {
 		"fileType": 524288,
@@ -2584,122 +2584,122 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 6721,
+		"initialSize": 4720,
 		"inputAbbreviatedPath": "\/images\/favicons\/mstile-144x144.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/mstile-144x144.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/mstile-150x150.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 6619,
+		"initialSize": 5402,
 		"inputAbbreviatedPath": "\/images\/favicons\/mstile-150x150.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/mstile-150x150.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/mstile-310x150.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 7202,
+		"initialSize": 6089,
 		"inputAbbreviatedPath": "\/images\/favicons\/mstile-310x150.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/mstile-310x150.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/mstile-310x310.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 14051,
+		"initialSize": 13126,
 		"inputAbbreviatedPath": "\/images\/favicons\/mstile-310x310.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/mstile-310x310.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/favicons\/mstile-70x70.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4729,
+		"initialSize": 3649,
 		"inputAbbreviatedPath": "\/images\/favicons\/mstile-70x70.png",
 		"outputAbbreviatedPath": "\/images\/favicons\/mstile-70x70.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/logos\/footer-logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5592,
+		"initialSize": 4848,
 		"inputAbbreviatedPath": "\/images\/logos\/footer-logo.png",
 		"outputAbbreviatedPath": "\/images\/logos\/footer-logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/logos\/footer-logo@2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 8439,
+		"initialSize": 7082,
 		"inputAbbreviatedPath": "\/images\/logos\/footer-logo@2x.png",
 		"outputAbbreviatedPath": "\/images\/logos\/footer-logo@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/logos\/header-logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3979,
+		"initialSize": 3768,
 		"inputAbbreviatedPath": "\/images\/logos\/header-logo.png",
 		"outputAbbreviatedPath": "\/images\/logos\/header-logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/logos\/header-logo@2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5338,
+		"initialSize": 4823,
 		"inputAbbreviatedPath": "\/images\/logos\/header-logo@2x.png",
 		"outputAbbreviatedPath": "\/images\/logos\/header-logo@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/logos\/white-header-logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2748,
+		"initialSize": 2239,
 		"inputAbbreviatedPath": "\/images\/logos\/white-header-logo.png",
 		"outputAbbreviatedPath": "\/images\/logos\/white-header-logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/logos\/white-header-logo@2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5056,
+		"initialSize": 3779,
 		"inputAbbreviatedPath": "\/images\/logos\/white-header-logo@2x.png",
 		"outputAbbreviatedPath": "\/images\/logos\/white-header-logo@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/orange-teal.jpg": {
 		"fileType": 16384,
@@ -2727,7 +2727,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 108374,
+		"initialSize": 52473,
 		"inputAbbreviatedPath": "\/images\/speakers\/codenton.png",
 		"outputAbbreviatedPath": "\/images\/speakers\/codenton.png",
 		"outputPathIsOutsideProject": 0,
@@ -2749,7 +2749,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 28841,
+		"initialSize": 28844,
 		"inputAbbreviatedPath": "\/images\/speakers\/dmc.png",
 		"outputAbbreviatedPath": "\/images\/speakers\/dmc.png",
 		"outputPathIsOutsideProject": 0,
@@ -2760,7 +2760,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 26299,
+		"initialSize": 94394,
 		"inputAbbreviatedPath": "\/images\/speakers\/dmc@2x.png",
 		"outputAbbreviatedPath": "\/images\/speakers\/dmc@2x.png",
 		"outputPathIsOutsideProject": 0,
@@ -2771,7 +2771,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 185076,
+		"initialSize": 62858,
 		"inputAbbreviatedPath": "\/images\/speakers\/hubspoke.png",
 		"outputAbbreviatedPath": "\/images\/speakers\/hubspoke.png",
 		"outputPathIsOutsideProject": 0,
@@ -2793,7 +2793,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 12835,
+		"initialSize": 14991,
 		"inputAbbreviatedPath": "\/images\/speakers\/opendenton.png",
 		"outputAbbreviatedPath": "\/images\/speakers\/opendenton.png",
 		"outputPathIsOutsideProject": 0,
@@ -2815,7 +2815,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 29321,
+		"initialSize": 33421,
 		"inputAbbreviatedPath": "\/images\/speakers\/startupunt.png",
 		"outputAbbreviatedPath": "\/images\/speakers\/startupunt.png",
 		"outputPathIsOutsideProject": 0,
@@ -2837,7 +2837,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 76284,
+		"initialSize": 48475,
 		"inputAbbreviatedPath": "\/images\/speakers\/techmill.png",
 		"outputAbbreviatedPath": "\/images\/speakers\/techmill.png",
 		"outputPathIsOutsideProject": 0,
@@ -2859,7 +2859,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 93028,
+		"initialSize": 48327,
 		"inputAbbreviatedPath": "\/images\/speakers\/trucrowd.png",
 		"outputAbbreviatedPath": "\/images\/speakers\/trucrowd.png",
 		"outputPathIsOutsideProject": 0,

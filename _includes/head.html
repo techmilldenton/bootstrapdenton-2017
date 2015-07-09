@@ -11,6 +11,7 @@
 		<!-- BASIC INFO -->
 		<title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 		<meta property="og:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
 
     <meta name="author" content="Bootstrap Denton">
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
@@ -18,19 +19,29 @@
   	<meta property="twitter:creator" content="{{ site.twitter_username }}">
   	<meta property="twitter:site" content="{{ site.twitter_username }}">
 
+    <!-- METADATA / OG / TWITTER -->
     {% if page.desc %}
       <meta name="description" content="{{ page.desc }}" >
       <meta property="og:description" content="{{ page.desc }}">
+      <meta name="twitter:description" content="{{ page.desc }}">
     {% else %}
       <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_newlines }}{% endif %}">
       <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_newlines }}{% endif %}">
+      <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_newlines }}{% endif %}">
     {% endif %}
 
+    <!-- KEYWORDS -->
     {% if page.keywords %}
       <meta name="keywords" content="{{ page.keywords }}" >
     {% else %}
       <meta name="keywords" content="bootstrap, denton, techmill, tech, startups, startup, coworking, entrepreneur, community">
     {% endif %}
+
+    <!-- TWITTER CARD -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="{{ site.twitter_username }}">
+    <meta name="twitter:creator" content="{{ site.twitter_username }}">
+    <meta name="twitter:image" content="http://www.bootstrapdenton.com/images/bd-og-1.png">
 
 		<!-- FAVICONS -->
     <link rel="apple-touch-icon" sizes="57x57" href="/images/favicons/apple-touch-icon-57x57.png">
