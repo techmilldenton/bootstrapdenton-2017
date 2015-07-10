@@ -1417,6 +1417,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/speakers\/harvesthouse@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47217,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/harvesthouse@2x.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/harvesthouse@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/speakers\/hubspoke.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2985,6 +2996,28 @@
 		"initialSize": 299274,
 		"inputAbbreviatedPath": "\/images\/speakers\/ericswayne@2x.png",
 		"outputAbbreviatedPath": "\/images\/speakers\/ericswayne@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/speakers\/harvesthouse.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47217,
+		"inputAbbreviatedPath": "\/images\/speakers\/harvesthouse.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/harvesthouse.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/speakers\/harvesthouse@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47217,
+		"inputAbbreviatedPath": "\/images\/speakers\/harvesthouse@2x.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/harvesthouse@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
