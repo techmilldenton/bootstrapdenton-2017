@@ -1457,15 +1457,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/jekyll\/update\/2015\/07\/05\/welcome-to-jekyll.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/jekyll\/update\/2015\/07\/05\/welcome-to-jekyll.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/js\/close-pixelate.js": {
 		"fileType": 64,
 		"ignore": 0,

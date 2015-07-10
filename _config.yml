@@ -13,5 +13,6 @@ facebook_username:  techmilldenton
 markdown: kramdown
 
 # Analytics
-google_analytics: UA-51689839-2
-disqus_shortname: techmill
+google_analytics: "UA-51689839-2"
+facebook_pixel: "6029086665797"
+disqus_shortname: "techmill"
