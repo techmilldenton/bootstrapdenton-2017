@@ -5,6 +5,7 @@
 <script type="text/javascript" src="/js/jpreloader.min.js"></script>
 <script type="text/javascript" src="/js/respimage.min.js"></script>
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/stellar.js/0.6.2/jquery.stellar.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/equalize.js/1.0.2/equalize.min.js"></script>
 
 <!-- <script src="/js/smoothscroll.min.js"></script> -->
 <!-- <script src="/js/jquery.nav.min.js"></script> -->
@@ -45,4 +46,9 @@ window._fbq = window._fbq || [];
 window._fbq.push(['track', '{{ site.facebook_pixel }}', {'value':'0.00','currency':'USD'}]);
 </script>
 <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev={{ site.facebook_pixel }}&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1" /></noscript>
+{% endif %}
+
+{% if site.add_this %}
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid={{ site.add_this}}" async="async"></script>
 {% endif %}

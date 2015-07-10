@@ -1307,6 +1307,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/speakers\/davesims.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 131683,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/davesims.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/davesims.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/speakers\/davesims@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 295632,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/davesims@2x.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/davesims@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/speakers\/dmc.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1329,6 +1351,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/speakers\/drawattention.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55862,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/drawattention.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/drawattention.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/speakers\/drawattention@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94199,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/drawattention@2x.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/drawattention@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/speakers\/emilyroden.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 127034,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/emilyroden.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/emilyroden.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/speakers\/emilyroden@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 255656,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/emilyroden@2x.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/emilyroden@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/speakers\/ericswayne.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120017,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/ericswayne.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/ericswayne.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/speakers\/ericswayne@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 299274,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/ericswayne@2x.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/ericswayne@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/speakers\/hubspoke.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1347,6 +1435,28 @@
 		"initialSize": 185076,
 		"inputAbbreviatedPath": "\/_site\/images\/speakers\/hubspoke@2x.png",
 		"outputAbbreviatedPath": "\/_site\/images\/speakers\/hubspoke@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/speakers\/marshall.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 148192,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/marshall.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/marshall.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/speakers\/marshall@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 335452,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/marshall@2x.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/marshall@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1391,6 +1501,28 @@
 		"initialSize": 29321,
 		"inputAbbreviatedPath": "\/_site\/images\/speakers\/startupunt@2x.png",
 		"outputAbbreviatedPath": "\/_site\/images\/speakers\/startupunt@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/speakers\/swashlabs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44744,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/swashlabs.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/swashlabs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/speakers\/swashlabs@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40003,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/swashlabs@2x.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/swashlabs@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1507,6 +1639,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/js\/maplace-0.1.3.min.js",
 		"outputAbbreviatedPath": "\/_site\/js\/min\/maplace-0.1.3.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/js\/min\/script-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/min\/script-min.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/min\/script-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -2736,6 +2879,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/speakers\/davesims.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 295632,
+		"inputAbbreviatedPath": "\/images\/speakers\/davesims.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/davesims.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/speakers\/davesims@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 295632,
+		"inputAbbreviatedPath": "\/images\/speakers\/davesims@2x.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/davesims@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/speakers\/dmc.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2758,6 +2923,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/speakers\/drawattention.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94199,
+		"inputAbbreviatedPath": "\/images\/speakers\/drawattention.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/drawattention.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/speakers\/drawattention@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94199,
+		"inputAbbreviatedPath": "\/images\/speakers\/drawattention@2x.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/drawattention@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/speakers\/emilyroden.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 255656,
+		"inputAbbreviatedPath": "\/images\/speakers\/emilyroden.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/emilyroden.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/speakers\/emilyroden@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 255656,
+		"inputAbbreviatedPath": "\/images\/speakers\/emilyroden@2x.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/emilyroden@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/speakers\/ericswayne.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 336041,
+		"inputAbbreviatedPath": "\/images\/speakers\/ericswayne.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/ericswayne.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/speakers\/ericswayne@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 299274,
+		"inputAbbreviatedPath": "\/images\/speakers\/ericswayne@2x.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/ericswayne@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/speakers\/hubspoke.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2776,6 +3007,28 @@
 		"initialSize": 185076,
 		"inputAbbreviatedPath": "\/images\/speakers\/hubspoke@2x.png",
 		"outputAbbreviatedPath": "\/images\/speakers\/hubspoke@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/speakers\/marshall.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 148192,
+		"inputAbbreviatedPath": "\/images\/speakers\/marshall.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/marshall.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/speakers\/marshall@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 335452,
+		"inputAbbreviatedPath": "\/images\/speakers\/marshall@2x.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/marshall@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2820,6 +3073,28 @@
 		"initialSize": 29321,
 		"inputAbbreviatedPath": "\/images\/speakers\/startupunt@2x.png",
 		"outputAbbreviatedPath": "\/images\/speakers\/startupunt@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/speakers\/swashlabs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47432,
+		"inputAbbreviatedPath": "\/images\/speakers\/swashlabs.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/swashlabs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/speakers\/swashlabs@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40003,
+		"inputAbbreviatedPath": "\/images\/speakers\/swashlabs@2x.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/swashlabs@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2936,6 +3211,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/maplace-0.1.3.min.js",
 		"outputAbbreviatedPath": "\/js\/min\/maplace-0.1.3.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/script-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/script-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/script-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
