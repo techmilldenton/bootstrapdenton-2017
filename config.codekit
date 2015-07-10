@@ -1417,6 +1417,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/speakers\/harvesthouse.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37498,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/harvesthouse.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/harvesthouse.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/speakers\/harvesthouse@2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2982,7 +2993,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 336041,
+		"initialSize": 333555,
 		"inputAbbreviatedPath": "\/images\/speakers\/ericswayne.png",
 		"outputAbbreviatedPath": "\/images\/speakers\/ericswayne.png",
 		"outputPathIsOutsideProject": 0,
