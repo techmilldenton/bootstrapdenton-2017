@@ -35,7 +35,6 @@ $yellow: #D7C369;
 
 // Change preferred theme color here.
 $color: $orange;
-
 $color-dark: darken($color, 5%);
 $color-darker: darken($color, 10%);
 
@@ -45,6 +44,7 @@ $color-darker: darken($color, 10%);
 // @import "syntax-highlighting";
 
 // Specialty
+@import "mixins";
 @import "animate";
 
 // Theme
