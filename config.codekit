@@ -1657,7 +1657,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 123628,
+		"initialSize": 172059,
 		"inputAbbreviatedPath": "\/_site\/images\/speakers\/travistidwell.png",
 		"outputAbbreviatedPath": "\/_site\/images\/speakers\/travistidwell.png",
 		"outputPathIsOutsideProject": 0,
@@ -1668,7 +1668,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 328559,
+		"initialSize": 608528,
 		"inputAbbreviatedPath": "\/_site\/images\/speakers\/travistidwell@2x.png",
 		"outputAbbreviatedPath": "\/_site\/images\/speakers\/travistidwell@2x.png",
 		"outputPathIsOutsideProject": 0,
@@ -3344,7 +3344,7 @@
 		"outputAbbreviatedPath": "\/images\/speakers\/travistidwell.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/speakers\/travistidwell@2x.png": {
 		"fileType": 32768,
@@ -3355,7 +3355,7 @@
 		"outputAbbreviatedPath": "\/images\/speakers\/travistidwell@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/speakers\/trucrowd.png": {
 		"fileType": 32768,
