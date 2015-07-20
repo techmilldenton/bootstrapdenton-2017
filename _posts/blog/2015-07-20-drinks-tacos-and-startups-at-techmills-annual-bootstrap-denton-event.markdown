@@ -1,14 +1,16 @@
 ---
 layout: post
 title: "Drinks, Tacos, and Startups at TechMill's Annual Bootstrap Denton Event"
-date: 2015-07-20T15:27:13-05:00
-categories: event press-release
+date: {}
+categories: "event press-release"
 desc: "The city of Denton has seen a massive and energetic upshift in the last few years, and if you want to be a part of it, Bootstrap Denton is the place to be. "
-slug: "jekyll_metas"
+slug: jekyll_metas
 keywords: "bootstrap, denton, startup, entrepreneur, small business, press release, drinks, tacos, free, food trucks, harvest house"
+published: true
 ---
 
-**Denton's tech scene celebrating continued growth at Harvest House next month
+
+##Denton's tech scene celebrating continued growth at Harvest House next month
 
 The city of Denton has seen a massive and energetic upshift in the last few years, and if you want to be a part of it, Bootstrap Denton is the place to be. 
 
@@ -24,5 +26,6 @@ You can get tickets and donate to Bootstrap Denton here: https://www.eventbrite.
 
 Interested in staying involved and learning more? There will be a workshop series, too! Bootstrap Denton: Community Workshop is a monthly meetup, and more information can be found here: http://techmill.co/blog/2015-06-bootstrap-denton-workshop-series
  
+<hr>
 
-*About TechMill:* The TechMill is a non-profit organization and coworking space led by a group of entrepreneurs, techies and software developers in Denton with a mission to develop and promote the city as a startup hub in North Texas.
+**About TechMill:** The TechMill is a non-profit organization and coworking space led by a group of entrepreneurs, techies and software developers in Denton with a mission to develop and promote the city as a startup hub in North Texas.
