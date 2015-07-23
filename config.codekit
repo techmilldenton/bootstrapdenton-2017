@@ -211,11 +211,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/event\/press-release\/drinks-tacos-and-startups-at-techmills-annual-bootstrap-denton-event\/index.html": {
+	"\/_site\/event,\/press-release\/drinks-tacos-and-startups-at-techmills-annual-bootstrap-denton-event\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/event\/press-release\/drinks-tacos-and-startups-at-techmills-annual-bootstrap-denton-event\/index.html",
+		"inputAbbreviatedPath": "\/_site\/event,\/press-release\/drinks-tacos-and-startups-at-techmills-annual-bootstrap-denton-event\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1723,6 +1723,28 @@
 		"initialSize": 62387,
 		"inputAbbreviatedPath": "\/_site\/images\/speakers\/trucrowd@2x.png",
 		"outputAbbreviatedPath": "\/_site\/images\/speakers\/trucrowd@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/speakers\/tylerbrowder.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 161947,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/tylerbrowder.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/tylerbrowder.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/speakers\/tylerbrowder@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 584148,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/tylerbrowder@2x.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/tylerbrowder@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
