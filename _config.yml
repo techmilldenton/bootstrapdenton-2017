@@ -3,6 +3,7 @@ title: Bootstrap Denton
 email: info@techmill.co
 description: > # this means to ignore newlines until "baseurl:"
   Bootstrap Denton is a series of events designed to create networking opportunities, educate entrepreneurs, and support our growing startup community.
+keywords: "bootstrap, denton, techmill, tech, startups, startup, coworking, entrepreneur, community"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.bootstrapdenton.com" # the base hostname & protocol for your site
 permalink: /:categories/:title
