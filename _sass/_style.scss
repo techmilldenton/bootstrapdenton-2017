@@ -181,6 +181,18 @@ iframe {
   clear: both;
 }
 
+.clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+.no-float {
+  float: none;
+}
+
 .wait-animation {
   -webkit-animation-play-state: paused;
   animation-play-state: paused;
@@ -273,7 +285,7 @@ iframe {
   background-color: #fff;
   color: inherit;
   position: relative;
-  padding: 90px 0;
+  padding: 45px 0;
   overflow: hidden;
 }
 
@@ -1785,7 +1797,7 @@ iframe {
 }
 
 .team-member-text {
-  padding: 30px 30px 60px;
+  padding: 30px 15px 60px 0;
 }
 
 .team-member-name {

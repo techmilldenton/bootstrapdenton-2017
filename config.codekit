@@ -1705,6 +1705,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/speakers\/treybowles.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 149068,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/treybowles.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/treybowles.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/speakers\/treybowles@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 353440,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/treybowles@2x.png",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/treybowles@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/speakers\/trucrowd.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3393,6 +3415,28 @@
 		"initialSize": 328583,
 		"inputAbbreviatedPath": "\/images\/speakers\/travistidwell@2x.png",
 		"outputAbbreviatedPath": "\/images\/speakers\/travistidwell@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/speakers\/treybowles.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 149068,
+		"inputAbbreviatedPath": "\/images\/speakers\/treybowles.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/treybowles.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/speakers\/treybowles@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 295632,
+		"inputAbbreviatedPath": "\/images\/speakers\/treybowles@2x.png",
+		"outputAbbreviatedPath": "\/images\/speakers\/treybowles@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
