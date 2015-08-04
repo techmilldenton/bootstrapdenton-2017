@@ -322,7 +322,7 @@
 		 */
 		if ( $.fn.equalize ) {
 
-			$("#organizations .team-row ").equalize();
+			// $("#organizations .team-row ").equalize();
 
 		}
 
