@@ -3252,7 +3252,7 @@
 		"outputAbbreviatedPath": "\/images\/speakers\/jillianjordan@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/speakers\/marshall.png": {
 		"fileType": 32768,
@@ -3439,7 +3439,7 @@
 		"outputAbbreviatedPath": "\/images\/speakers\/travistidwell.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/speakers\/travistidwell@2x.png": {
 		"fileType": 32768,
@@ -3450,7 +3450,7 @@
 		"outputAbbreviatedPath": "\/images\/speakers\/travistidwell@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/speakers\/treybowles.png": {
 		"fileType": 32768,
@@ -3461,7 +3461,7 @@
 		"outputAbbreviatedPath": "\/images\/speakers\/treybowles.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/speakers\/treybowles@2x.png": {
 		"fileType": 32768,
@@ -3472,7 +3472,7 @@
 		"outputAbbreviatedPath": "\/images\/speakers\/treybowles@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/speakers\/trucrowd.png": {
 		"fileType": 32768,
@@ -3505,7 +3505,7 @@
 		"outputAbbreviatedPath": "\/images\/speakers\/tylerbrowder.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/speakers\/tylerbrowder@2x.png": {
 		"fileType": 32768,
@@ -3516,7 +3516,7 @@
 		"outputAbbreviatedPath": "\/images\/speakers\/tylerbrowder@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/index.html": {
 		"fileType": 8192,
