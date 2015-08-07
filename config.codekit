@@ -3408,6 +3408,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/images\/speakers\/kevinroden.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32918,
+		"inputAbbreviatedPath": "\/images\/speakers\/kevinroden.jpg",
+		"outputAbbreviatedPath": "\/images\/speakers\/kevinroden.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/speakers\/kevinroden@2x.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
