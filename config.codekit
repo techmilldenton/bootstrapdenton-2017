@@ -3395,7 +3395,7 @@
 		"outputAbbreviatedPath": "\/images\/speakers\/joshberthume.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/speakers\/joshberthume@2x.jpg": {
 		"fileType": 16384,
@@ -3406,7 +3406,7 @@
 		"outputAbbreviatedPath": "\/images\/speakers\/joshberthume@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/speakers\/kevin.jpg": {
 		"fileType": 16384,
