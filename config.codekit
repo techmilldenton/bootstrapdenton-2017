@@ -3430,6 +3430,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/speakers\/kyletaylor.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45875,
+		"inputAbbreviatedPath": "\/images\/speakers\/kyletaylor.jpg",
+		"outputAbbreviatedPath": "\/images\/speakers\/kyletaylor.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/speakers\/kyletaylor@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74166,
+		"inputAbbreviatedPath": "\/images\/speakers\/kyletaylor@2x.jpg",
+		"outputAbbreviatedPath": "\/images\/speakers\/kyletaylor@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/speakers\/marshall.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
