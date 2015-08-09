@@ -3351,7 +3351,7 @@
 		"outputAbbreviatedPath": "\/images\/speakers\/isaacserrata.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/speakers\/isaacserrata@2x.jpg": {
 		"fileType": 16384,
@@ -3362,7 +3362,7 @@
 		"outputAbbreviatedPath": "\/images\/speakers\/isaacserrata@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/speakers\/jillianjordan.jpg": {
 		"fileType": 16384,
