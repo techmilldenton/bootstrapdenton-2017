@@ -8,10 +8,11 @@ layout: default
       <h2 class="section-heading text-center page-title">{{ page.title }}</h2>
     </header>
 
+    {% if page.addthis == true %}
     <div id="addthis-sharing" class="section clearfix">
-      <!-- Go to www.addthis.com/dashboard to customize your tools -->
       <div class="addthis_sharing_toolbox"></div>
     </div>
+    {% endif %}
 
     <div class="row">
 

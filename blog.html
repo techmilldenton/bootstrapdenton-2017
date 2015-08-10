@@ -1,9 +1,13 @@
----
-layout: page
-title: Blog
-permalink: /blog/
-addthis: true
----
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<meta name="layout" content="page"/>
+	<title>Blog</title>
+	<meta name="permalink" content="/blog/"/>
+	<meta name="addthis" content="true"/>
+</head>
+<body>
 
 <div class="post-list">
   {% for post in site.posts %}
@@ -23,3 +27,6 @@ addthis: true
   </section>
   {% endfor %}
 </div>
+
+</body>
+</html>

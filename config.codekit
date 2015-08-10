@@ -202,6 +202,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/blog.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/blog\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1498,7 +1507,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 23308,
+		"initialSize": 51337,
 		"inputAbbreviatedPath": "\/_site\/images\/speakers\/heathergregory.jpg",
 		"outputAbbreviatedPath": "\/_site\/images\/speakers\/heathergregory.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1509,7 +1518,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 54501,
+		"initialSize": 103450,
 		"inputAbbreviatedPath": "\/_site\/images\/speakers\/heathergregory@2x.jpg",
 		"outputAbbreviatedPath": "\/_site\/images\/speakers\/heathergregory@2x.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1542,7 +1551,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 44771,
+		"initialSize": 22266,
 		"inputAbbreviatedPath": "\/_site\/images\/speakers\/isaacserrata.jpg",
 		"outputAbbreviatedPath": "\/_site\/images\/speakers\/isaacserrata.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1553,7 +1562,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 76809,
+		"initialSize": 55721,
 		"inputAbbreviatedPath": "\/_site\/images\/speakers\/isaacserrata@2x.jpg",
 		"outputAbbreviatedPath": "\/_site\/images\/speakers\/isaacserrata@2x.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1586,7 +1595,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 19032,
+		"initialSize": 32893,
 		"inputAbbreviatedPath": "\/_site\/images\/speakers\/joshberthume.jpg",
 		"outputAbbreviatedPath": "\/_site\/images\/speakers\/joshberthume.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1597,7 +1606,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 53548,
+		"initialSize": 67564,
 		"inputAbbreviatedPath": "\/_site\/images\/speakers\/joshberthume@2x.jpg",
 		"outputAbbreviatedPath": "\/_site\/images\/speakers\/joshberthume@2x.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1630,7 +1639,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 45875,
+		"initialSize": 49605,
 		"inputAbbreviatedPath": "\/_site\/images\/speakers\/kyletaylor.jpg",
 		"outputAbbreviatedPath": "\/_site\/images\/speakers\/kyletaylor.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1641,7 +1650,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 74166,
+		"initialSize": 90054,
 		"inputAbbreviatedPath": "\/_site\/images\/speakers\/kyletaylor@2x.jpg",
 		"outputAbbreviatedPath": "\/_site\/images\/speakers\/kyletaylor@2x.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -2028,6 +2037,15 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/blog.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/blog.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/blog.md": {
 		"criticStyle": 0,
@@ -3349,7 +3367,7 @@
 		"outputAbbreviatedPath": "\/images\/speakers\/heathergregory.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/speakers\/heathergregory@2x.jpg": {
 		"fileType": 16384,
@@ -3360,7 +3378,7 @@
 		"outputAbbreviatedPath": "\/images\/speakers\/heathergregory@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/speakers\/hubspoke.jpg": {
 		"fileType": 16384,
