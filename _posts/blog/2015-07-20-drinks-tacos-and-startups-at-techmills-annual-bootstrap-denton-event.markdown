@@ -2,7 +2,7 @@
 layout: post
 title: "Drinks, Tacos, and Startups at TechMill's Annual Bootstrap Denton Event"
 date: 2015-07-20T15:27:13-05:00
-categories: [event, press-release]
+categories: press-release
 desc: "The city of Denton has seen a massive and energetic upshift in the last few years, and if you want to be a part of it, Bootstrap Denton is the place to be. "
 slug: "event_press_release"
 keywords: "bootstrap, denton, startup, entrepreneur, small business, press release, drinks, tacos, free, food trucks, harvest house"
