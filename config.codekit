@@ -1437,6 +1437,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/speakers\/ellenlevings.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41281,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/ellenlevings.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/ellenlevings.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/speakers\/ellenlevings@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 86889,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/ellenlevings@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/ellenlevings@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/speakers\/emilyroden.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2465,7 +2487,7 @@
 		"outputAbbreviatedPath": "\/images\/bootstrapAd.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/contents\/about.jpg": {
 		"fileType": 16384,
@@ -3292,6 +3314,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/images\/speakers\/ellenlevings.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41281,
+		"inputAbbreviatedPath": "\/images\/speakers\/ellenlevings.jpg",
+		"outputAbbreviatedPath": "\/images\/speakers\/ellenlevings.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/speakers\/ellenlevings@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 86889,
+		"inputAbbreviatedPath": "\/images\/speakers\/ellenlevings@2x.jpg",
+		"outputAbbreviatedPath": "\/images\/speakers\/ellenlevings@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/images\/speakers\/emilyroden.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3367,7 +3411,7 @@
 		"outputAbbreviatedPath": "\/images\/speakers\/heathergregory.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/speakers\/heathergregory@2x.jpg": {
 		"fileType": 16384,
@@ -3378,7 +3422,7 @@
 		"outputAbbreviatedPath": "\/images\/speakers\/heathergregory@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/speakers\/hubspoke.jpg": {
 		"fileType": 16384,
@@ -3455,7 +3499,7 @@
 		"outputAbbreviatedPath": "\/images\/speakers\/joshberthume.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/speakers\/joshberthume@2x.jpg": {
 		"fileType": 16384,
@@ -3466,7 +3510,7 @@
 		"outputAbbreviatedPath": "\/images\/speakers\/joshberthume@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/speakers\/kevin.jpg": {
 		"fileType": 16384,
@@ -3477,7 +3521,7 @@
 		"outputAbbreviatedPath": "\/images\/speakers\/kevin.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/speakers\/kevin@2x.jpg": {
 		"fileType": 16384,
@@ -3488,7 +3532,7 @@
 		"outputAbbreviatedPath": "\/images\/speakers\/kevin@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/speakers\/kyletaylor.jpg": {
 		"fileType": 16384,
@@ -3499,7 +3543,7 @@
 		"outputAbbreviatedPath": "\/images\/speakers\/kyletaylor.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/speakers\/kyletaylor@2x.jpg": {
 		"fileType": 16384,
@@ -3510,7 +3554,7 @@
 		"outputAbbreviatedPath": "\/images\/speakers\/kyletaylor@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/speakers\/marshall.jpg": {
 		"fileType": 16384,
