@@ -32,6 +32,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_includes\/footer-map.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/footer-map.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_includes\/footer.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -184,6 +193,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/_site\/2015\/07\/press-release\/drinks-tacos-and-startups-at-techmills-annual-bootstrap-denton-event\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/2015\/07\/press-release\/drinks-tacos-and-startups-at-techmills-annual-bootstrap-denton-event\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/blog\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -207,15 +225,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/css\/main.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/event,\/press-release\/drinks-tacos-and-startups-at-techmills-annual-bootstrap-denton-event\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/event,\/press-release\/drinks-tacos-and-startups-at-techmills-annual-bootstrap-denton-event\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1595,13 +1604,46 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/images\/speakers\/kevinroden@2x.jpg": {
+	"\/_site\/images\/speakers\/kevin.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32918,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/kevin.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/kevin.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/speakers\/kevin@2x.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 68720,
-		"inputAbbreviatedPath": "\/_site\/images\/speakers\/kevinroden@2x.jpg",
-		"outputAbbreviatedPath": "\/_site\/images\/speakers\/kevinroden@2x.jpg",
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/kevin@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/kevin@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/speakers\/kyletaylor.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45875,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/kyletaylor.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/kyletaylor.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/speakers\/kyletaylor@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74166,
+		"inputAbbreviatedPath": "\/_site\/images\/speakers\/kyletaylor@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/speakers\/kyletaylor@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
