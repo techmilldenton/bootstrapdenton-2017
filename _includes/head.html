@@ -75,8 +75,6 @@
     <!-- CSS -->
 
     <!-- GOOGLE FONTS -->
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Montserrat:400,700">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Pacifico:400">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
 
     <!-- LIBRARIES CSS -->
@@ -84,5 +82,14 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <!-- THEME CSS -->
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+
+    <link rel=stylesheet href="css/main.css">
+    <!--[if lte IE 8]>
+    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    <![endif]-->
+
+    <!-- THEME JS -->
+    <script src="{{ "/js/vendor/modernizr.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/vendor/respond.min.js" | prepend: site.baseurl }}"></script>
 
 </head>
