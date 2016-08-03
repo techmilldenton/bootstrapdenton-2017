@@ -1,0 +1,24 @@
+- 1:
+  icon: users
+  title: Local Speakers
+  desc: Listen to lightning talks from our community leaders and get to know your Denton tech community. There's more of us than you'd think.
+- 2:
+  icon: cutlery
+  title: Food (truck)
+  desc: Coup de Taco is permanently parked outside of Harvest House for your taco needs. We recommend the fried avocado taco.
+- 3:
+  icon: beer
+  title: Free Drinks
+  desc: Hungry for knowledge, but thirsty for beer? Your first drink is on us thanks to our event sponsors!
+- 4:
+  icon: comments
+  title: Agencies & Freelancers
+  desc: Our city is home to world-renowned creative tech talent. Mingle & talk with local creatives and agencies in the area.
+- 5:
+  icon: shirtsinbulk
+  title: Live Printed Shirts
+  desc: Thanks to our friends at Pan Ector, we'll have awesome Denton tech shirt designs being printed live on-site.
+- 6:
+  icon: money
+  title: Sponsors
+  desc: Interested in sponsoring the event? <a href='mailto:kyle@techmill.co'>Contact us for more info!</a>

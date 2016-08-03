@@ -3,16 +3,13 @@
 
 {% include head.html %}
 
-  <body class="enable-animations">
-    <div id="document" class="document">
+  <body class="">
+    <!-- Page Wrapper -->
+    <div id="page-wrapper">
 
       {% include header.html %}
 
-      <div class="page-content">
-        <div class="wrapper">
-          {{ content }}
-        </div>
-      </div>
+      {{ content }}
 
       {% include footer.html %}
       {% include scripts.html %}

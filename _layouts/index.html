@@ -3,11 +3,17 @@
 
 {% include head.html %}
 
-  <body class="">
+  <body class="landing">
+    <!-- Page Wrapper -->
+    <div id="page-wrapper">
 
-     {{ content }}
-      
-    {% include scripts.html %}
+      {% include header.html %}
+
+      {{ content }}
+
+      {% include footer.html %}
+      {% include scripts.html %}
+    </div>
   </body>
 
 </html>

@@ -1,48 +1,61 @@
+<!-- CTA -->
+<section id="cta" class="wrapper style4">
+  <div class="inner">
+    <header>
+      <h2>Join a Meetup.</h2>
+      <p>You, the community, is what keeps us going. We're always putting on new and exciting events in Denton, and we'd love to see you there!</p>
+    </header>
+    <ul class="actions vertical">
+      <li><a href="https://www.meetup.com/techmilldenton" class="button fit special">Meetup.com</a></li>
+      <li><a href="http://eepurl.com/YoOFP" class="button fit">Newsletter</a></li>
+    </ul>
+  </div>
+</section>
 
 <!-- FOOTER -->
-<footer class="footer-section footer section">
+<footer id="footer">
+  <ul class="logo">
+    <li>
+      {% include image.html src="/images/logos/footer-logo.png" alt=site.title retina=1 %}
+    </li>
+  </ul>
+  <ul class="icons">
+    <ul class="icons">
+      <li>
+        <a href="mailto:{{ site.email }}" class="icon fa-paper-plane">
+          <span class="label">E-Mail</span>
+        </a>
+      </li>
+      {% if site.facebook_username %}
+      <li>
+        <a href="https://facebook.com/{{ site.facebook_username }}" target="_blank" class="icon fa-facebook">
+          <span class="label">Facebook</span>
+        </a>
+      </li>
+      {% endif %}
 
-  <div class="container">
-    <div class="row">
-      <div class="col-md-4">
-        <h3 class="footer-logo">
-          <img src="/images/logos/footer-logo.png" srcset="/images/logos/footer-logo@2x.png 2x" alt="Bootstrap Denton">
-        </h3>
-      </div>
-
-      <div class="col-md-4">
-        <div class="footer-socmed">
-          <a href="mailto:{{ site.email }}">
-            <span class="icon fa fa-paper-plane"></span>
-          </a>
-          {% if site.facebook_username %}
-          <a href="https://facebook.com/{{ site.facebook_username }}" target="_blank">
-            <span class="icon fa fa-facebook"></span>
-          </a>
-          {% endif %}
-          {% if site.twitter_username %}
-          <a href="https://twitter.com/{{ site.twitter_username }}">
-            <span class="icon fa fa-twitter"></span>
-          </a>
-          {% endif %}
-          {% if site.github_username %}
-          <a href="https://github.com/{{ site.github_username }}" target="_blank">
-            <span class="icon fa fa-github"></span>
-          </a>
-          {% endif %}
-          <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
-            <span class="icon fa fa-rss"></span>
-          </a>
-        </div>
-      </div>
-
-      <div class="col-md-4">
-        <p class="text">{{ site.description }}</p>
-        <div class="footer-copyright">
-          &copy; 2016 Bootstrap Denton
-        </div>
-      </div>
-
-    </div>
-  </div>
+      {% if site.twitter_username %}
+      <li>
+        <a href="https://twitter.com/{{ site.twitter_username }}" class="icon fa-twitter">
+          <span class="label">Twitter</span>
+        </a>
+      </li>
+      {% endif %}
+      {% if site.github_username %}
+      <li>
+        <a href="https://github.com/{{ site.github_username }}" target="_blank" class="icon fa-github">
+          <span class="label">GitHub</span>
+        </a>
+      </li>
+      {% endif %}
+      <li>
+        <a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="icon fa-rss">
+          <span class="label">RSS</span>
+        </a>
+      </li>
+    </ul>
+  </ul>
+  <ul class="copyright">
+    <li>&copy; 2016</li><li>Bootstrap Denton</li>
+  </ul>
 </footer>

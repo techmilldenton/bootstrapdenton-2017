@@ -1,1 +1,28 @@
-speakers.yml
+- techmill:
+  name: "Kyle Taylor"
+  organization: "TechMill"
+  description: "Nonprofit that supports the local tech startup community by through meetups, networking resources, and educational workshops."
+  site: "https://techmill.co"
+  image: "/images/speakers/kyle_taylor.png"
+  retina: 0
+- nerd_nite:
+  name: "Shaun Treat"
+  organization: "Nerd Nite Denton"
+  description: "Nerd Nite is a monthly event of 15-20-minute fun-yet-informative presentations on smart topics... with beer!"
+  site: "https://www.facebook.com/NerdNiteDenton"
+  image: "/images/speakers/shaun_treat.jpg"
+  retina: 1
+- stoke:
+  name: "Trey Bowles"
+  organization: "Stoke"
+  description: "Stoke is a place for innovators, freelancers, and startups. It’s where ambition, technology, and a shared desire to change the world for the better can come together."
+  site: "http://stokedenton.com"
+  image: "/images/speakers/trey_bowles.jpg"
+  retina: 1
+- nodeschool:
+  name: "Dan Minshew"
+  organization: "NodeSchool Denton"
+  description: "NodeSchool Denton is a chapter of the international NodeSchool.io, creating a container for learning Node.js - used in web programming, robotics, and enabling new kinds of networked applications."
+  site: "http://nodeschool.io/denton-texas"
+  image: "/images/speakers/dan_minshew.jpg"
+  retina: 1

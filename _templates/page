@@ -1,4 +1,7 @@
 ---
 layout: {{ layout }}
 title: "{{ title }}"
+subtitle: "{{ subtitle }}"
+style: "{{ style }}"
+# Styles 1-5 can be used. I.E. "style3"
 ---
