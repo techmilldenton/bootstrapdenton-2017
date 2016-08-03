@@ -1632,17 +1632,20 @@ button,
 		}
 	}
 
-	/* Startups */
-	#startups {
-		.company {
-			h3 {
-				em {
-					display: block;
-				}
+	/* Companies */
+	#companies {
+		header {
+			text-align: center;
+		}
+	}
+	.company {
+		h3 {
+			em {
+				display: block;
 			}
-			img {
-				max-width: 100%;
-			}
+		}
+		img {
+			max-width: 100%;
 		}
 	}
 
