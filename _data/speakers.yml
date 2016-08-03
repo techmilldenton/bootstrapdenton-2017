@@ -26,3 +26,17 @@
   site: "http://nodeschool.io/denton-texas"
   image: "/images/speakers/dan_minshew.jpg"
   retina: 1
+- wwc:
+  name: "Juli James"
+  organization: "Women Who Code"
+  description: "Women Who Code is a non-profit dedicated to inspiring women to excel in technology careers, connecting amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it."
+  site: "http://www.meetup.com/Women-Who-Code-Dallas/events/224158706/"
+  image: "/images/speakers/juli_james.jpg"
+  retina: 0
+- twu:
+  name: "Nancy Hong"
+  organization: "The Hub @ TWU"
+  description: "The TWU center for women in business, nicknamed 'The Hub', is on another historic Texas Woman’s University mission: To help women open, manage and succeed in creating new businesses."
+  site: "http://www.twu.edu/hub/"
+  image: "/images/speakers/nancy_hong.jpg"
+  retina: 0
