@@ -1,0 +1,25 @@
+# Company details.
+- kubos:
+  name: Marshall Culpepper
+  title: CEO
+  company: Kubos
+  desc: Kubos believes that space should be accessible to everyone, and has developed KubOS, an open-source space flight software platform to meet that goal.
+  site: http://www.kubos.co/
+  image: /images/speakers/marshall_culpepper.jpg
+  retina: 0
+- ftf:
+  name: Mike Christian
+  title: CEO
+  company: From the Future
+  desc: A game development studio based on the square in downtown, From the Future has worked on nearly every gaming platform known to humankind.
+  site: http://www.fromthefuturegames.com/
+  image: /images/speakers/mike_christian.jpg
+  retina: 0
+- swash:
+  name: Josh Berthume
+  title: Founder
+  company: Swash Labs
+  desc: Swash Labs is where creative work and social science come together to make good things happen.
+  site: http://swashlabs.com/
+  image: /images/speakers/josh_berthume.jpg
+  retina: 0

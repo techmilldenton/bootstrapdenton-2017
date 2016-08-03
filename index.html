@@ -48,6 +48,30 @@ layout: index
       
     </section>
 
+    <!-- startups -->
+    <section id="startups" class="wrapper style1">
+      <div class="container">
+        {% for company in site.data.companies %}
+          {% assign loopindex = forloop.index | modulo: 3 %}
+          {% if loopindex == 1 %}
+            <div class="row">
+              <div class="4u 6u(small) 12u(xsmall)">
+                {% include company.html name=company.name company=company.company desc=company.desc image=company.image site=company.site title=company.title retina=company.retina %}
+              </div>
+          {% elsif loopindex == 2 %}
+              <div class="4u 6u(small) 12u(xsmall)">
+                {% include company.html name=company.name company=company.company desc=company.desc image=company.image site=company.site title=company.title retina=company.retina %}
+              </div>
+          {% else %}
+              <div class="4u 6u(small) 12u(xsmall)">
+                {% include company.html name=company.name company=company.company desc=company.desc image=company.image site=company.site title=company.title retina=company.retina %}
+              </div>
+            </div>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </section>
+
     <!-- Three -->
     <section id="faq" class="wrapper style3 special">
       <div class="inner">

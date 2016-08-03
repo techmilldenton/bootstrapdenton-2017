@@ -1,0 +1,8 @@
+<div class="company">
+	{% include image.html src=company.image alt=company.name retina=company.retina %}
+	<div clas="info">
+		<h3>{{ company.name }}, <em>{{ company.title }}</em></h3>
+		<h4><a href="{{ company.site }}" title="{{ company.company }}">{{ company.company }}</a></h4>
+		<p>{{ company.desc }}</p>
+	</div>
+</div>

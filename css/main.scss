@@ -1632,9 +1632,26 @@ button,
 		}
 	}
 
+	/* Startups */
+	#startups {
+		.company {
+			h3 {
+				em {
+					display: block;
+				}
+			}
+			img {
+				max-width: 100%;
+			}
+		}
+	}
+
 	/* CTA */
 
 	#cta {
+		background-image: url("../images/meetup-blur.jpg");
+		background-position: 50%;
+		background-size: cover;
 		.inner {
 			@include vendor('display', 'flex');
 			max-width: 45em;
