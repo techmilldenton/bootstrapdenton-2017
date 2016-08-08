@@ -69,6 +69,15 @@ a {
 
 	&:hover {
 		border-bottom-color: transparent;
+		text-decoration: none;
+	}
+}
+
+// Specific
+a {
+	@include linx(_palette(accent1, fg), _palette(accent1, fg), _palette(accent1, bg), _palette(accent1, bg));
+	.style1 & {
+
 	}
 }
 
@@ -862,7 +871,7 @@ button,
 	}
 
 	&.special-1 {
-		background-color: _palette(accent8, bg);
+		background-color: _palette(accent1, bg);
 		box-shadow: none !important;
 		color: _palette(accent8, fg-bold) !important;
 
@@ -1249,6 +1258,11 @@ button,
 
 		&.style2 {
 			background-color: _palette(bg);
+			.features li {
+				&:before {
+					color: _palette(accent1, bg);
+				}
+			}
 		}
 
 		&.style3 {
@@ -1505,7 +1519,7 @@ button,
 			z-index: 1;
 
 			span {
-				color: #FFF024;
+				color: _palette(accent1, bg);
 			}
 
 			&:before, &:after {
