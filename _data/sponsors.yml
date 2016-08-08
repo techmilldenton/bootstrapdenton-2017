@@ -1,0 +1,28 @@
+# Company details.
+- techmill:
+  name: TechMill
+  site: https://techmill.co
+  image: /images/speakers/techmill.jpg
+  retina: 1
+  social:
+    twitter: techmilldenton
+    facebook: techmilldenton
+    instagram: techmilldenton
+- harvest:
+  name: Harvest House
+  site: http://www.dentonharvesthouse.com
+  image: /images/speakers/harvesthouse.jpg
+  retina: 1
+  social:
+    twitter: HarvestHouseDTX
+    facebook: DentonHarvestHouse
+    instagram: harvesthousedenton
+- panector:
+  name: Pan Ector
+  site: http://www.panector.com/
+  image: /images/speakers/panector.jpg
+  retina: 1
+  social:
+    twitter: panector
+    facebook: PanEctor
+    instagram: panector

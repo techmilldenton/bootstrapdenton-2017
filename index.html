@@ -19,76 +19,74 @@ layout: index
 <section id="event" class="wrapper style1 special">
   <div class="inner">
     <header class="major">
-      <h2>Bootstrap Denton is a celebration<br>
-      of our creative tech community</h2>
+      <h2>Bootstrap Denton is a celebration<br>of our creative tech community</h2>
       <p>Denton is known for our creative talent, innovative workforce, and engaged citizens. We are passionate, dedicated, and scrappy businesses without fear of experimentation and always pushing the envelope.</p>
     </header>
-        <ul class="icons major">
-          <li><span class="icon fa-connectdevelop major"><span class="label">Community</span></span></li>
-          <li><span class="icon fa-heart-o major "><span class="label">Support</span></span></li>
-          <li><span class="icon fa-lightbulb-o major "><span class="label">Innovation</span></span></li>
-        </ul>
+    <ul class="icons major">
+      <li><span class="icon fa-connectdevelop major"><span class="label">Community</span></span></li>
+      <li><span class="icon fa-heart-o major "><span class="label">Support</span></span></li>
+      <li><span class="icon fa-lightbulb-o major "><span class="label">Innovation</span></span></li>
+    </ul>
+  </div>
+</section>
+
+<!-- Two -->
+<section id="organizations" class="wrapper alt style2">
+  {% for speaker in site.data.speakers %}
+    <section class="spotlight">
+      <div class="image">
+        {% include image.html src=speaker.image alt=speaker.organization retina=speaker.retina %}
+      </div>
+      <div class="content">
+        <h2>{{ speaker.name }}</h2>
+        <h3><a href="{{ speaker.site }}" title= "{{ speaker.organization }}">{{ speaker.organization }}</a></h3>
+        <p>{{ speaker.description }}</p>
       </div>
     </section>
+  {% endfor %}
+</section>
 
-    <!-- Two -->
-    <section id="organizations" class="wrapper alt style2">
-      {% for speaker in site.data.speakers %}
-        <section class="spotlight">
-          <div class="image">
-            {% include image.html src=speaker.image alt=speaker.organization retina=speaker.retina %}
-          </div>
-          <div class="content">
-            <h2>{{ speaker.name }}</h2>
-            <h3><a href="{{ speaker.site }}" title= "{{ speaker.organization }}">{{ speaker.organization }}</a></h3>
-            <p>{{ speaker.description }}</p>
-          </div>
-        </section>
-      {% endfor %}
-
-    </section>
-
-    <!-- companies -->
-    <section id="companies" class="wrapper style3">
-    <header class="major">
-      <h2>Companies</h2>
-    </header>
-      <div class="container">
-        {% for company in site.data.companies %}
-          {% assign loopindex = forloop.index | modulo: 3 %}
-          {% if loopindex == 1 %}
-            <div class="row uniform 50%">
-              <div class="4u 6u(small) 12u(xsmall)">
-                {% include company.html name=company.name company=company.company desc=company.desc image=company.image site=company.site title=company.title retina=company.retina %}
-              </div>
-          {% elsif loopindex == 2 %}
-              <div class="4u 6u(small) 12u(xsmall)">
-                {% include company.html name=company.name company=company.company desc=company.desc image=company.image site=company.site title=company.title retina=company.retina %}
-              </div>
-          {% else %}
-              <div class="4u 6u(small) 12u(xsmall)">
-                {% include company.html name=company.name company=company.company desc=company.desc image=company.image site=company.site title=company.title retina=company.retina %}
-              </div>
+<!-- Companies -->
+<section id="companies" class="wrapper style3">
+  <header class="major">
+    <h2>Companies</h2>
+  </header>
+  <div class="inner box alt">
+    {% for company in site.data.companies %}
+      {% assign loopindex = forloop.index | modulo: 3 %}
+        {% if loopindex == 1 %}
+          <div class="row uniform 50%">
+            <div class="4u 6u(small) 12u(xsmall)">
+              {% include company.html name=company.name company=company.company desc=company.desc image=company.image site=company.site title=company.title retina=company.retina %}
             </div>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </section>
+        {% elsif loopindex == 2 %}
+            <div class="4u 6u(small) 12u(xsmall)">
+              {% include company.html name=company.name company=company.company desc=company.desc image=company.image site=company.site title=company.title retina=company.retina %}
+            </div>
+        {% else %}
+            <div class="4u 6u(small) 12u(xsmall)">
+              {% include company.html name=company.name company=company.company desc=company.desc image=company.image site=company.site title=company.title retina=company.retina %}
+            </div>
+          </div>
+        {% endif %}
+    {% endfor %}
+  </div>
+</section>
 
-    <!-- Three -->
-    <section id="faq" class="wrapper style2 special">
-      <div class="inner">
-        <header class="major">
-          <h2>What to expect</h2>
-          <p>You might have some questions, and that's okay. Here's the gist:</p>
-          </header>
-          <ul class="features">
-          {% for faq in site.data.faq %}
-            <li class="icon fa-{{faq.icon}}">
-              <h3>{{ faq.title }}</h3>
-              <p>{{ faq.desc }}</p>
-            </li>
-          {% endfor %}
-          </ul>
-        </div>
-      </section>
+  <!-- Three -->
+  <section id="faq" class="wrapper style2 special">
+    <div class="inner">
+      <header class="major">
+        <h2>What to expect</h2>
+        <p>You might have some questions, and that's okay. Here's the gist:</p>
+      </header>
+      <ul class="features">
+        {% for faq in site.data.faq %}
+          <li class="icon fa-{{faq.icon}}">
+            <h3>{{ faq.title }}</h3>
+            <p>{{ faq.desc }}</p>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+</section>
