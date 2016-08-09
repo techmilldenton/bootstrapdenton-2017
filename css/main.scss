@@ -1806,6 +1806,21 @@ button,
 				}
 			}
 		}
+		&.page {
+			> header {
+				h2 {
+					margin: 0;
+					padding-top: 0.5em;
+					padding-bottom: 0.5em;
+				}
+				h2, p {
+					background-color: rgba(red(_palette(bg)), green(_palette(bg)), blue(_palette(bg)), 0.75);
+				}
+				p {
+					padding-bottom: 1em;
+				}
+			}
+		}
 	}
 
 	body.is-mobile {
