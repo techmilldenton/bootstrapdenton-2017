@@ -18,7 +18,7 @@ layout: default
       <div class="addthis_sharing_toolbox"></div>
     </div>
   {% endif %}
-  <section class="wrapper {% if page.style %}<p>{{ page.style }}{% endif %}">
+  <section class="wrapper {% if page.style %}{{ page.style }}{% endif %}">
     <div class="inner">
 
       {{ content | markdownify }}

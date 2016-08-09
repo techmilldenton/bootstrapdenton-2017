@@ -75,9 +75,46 @@ a {
 
 // Specific
 a {
-	@include linx(_palette(accent1, fg), _palette(accent1, fg), _palette(accent1, bg), _palette(accent1, bg));
+	color: _palette(accent1, bg);
+  &:visited {
+    color: _palette(accent1, bg);
+  }
+  &:hover {
+    color: _palette(accent1, fg);
+		border-bottom: 1px dotted #FFF;
+  }
+  &:active {
+    color: _palette(accent1, bg);
+  }
 	.style1 & {
-
+		color: _palette(accent1, fg-bold);
+	  &:visited {
+	    color: _palette(accent1, fg-bold);
+	  }
+	  &:hover {
+	    color: _palette(accent1, bg);
+			border-bottom: 1px dotted _palette(accent1, fg-bold);
+	  }
+	  &:active {
+	    color: _palette(accent1, bg);
+	  }
+	}
+	.style3 & {
+		&:hover {
+			color: #FFF;
+		}
+	}
+	.style5 & {
+		color: _palette(bg);
+		&:hover {
+			color: _palette(accent1, bg);
+		}
+	}
+	&.button {
+		&:hover {
+			color: #FFF;
+			border: 0;
+		}
 	}
 }
 
@@ -1847,10 +1884,10 @@ button,
 	}
 
 // Sponsors
-.sponsors {
+.sponsors, .jobs {
 	margin-bottom: 2em !important;
 }
-.sponsorship {
+.sponsorship, .job {
 	.inner {
 		box-sizing: border-box;
 		border: 1px solid _palette(accent1, bg);
@@ -1874,6 +1911,17 @@ button,
 			line-height: 1em;
 			padding-bottom: 1em;
 			text-align: center;
+		}
+	}
+}
+.job {
+	.inner {
+		h3, h4, & {
+			border-color: _palette(bg);
+		}
+		h3 {
+			background-color: _palette(bg);
+			color: #FFF;
 		}
 	}
 }

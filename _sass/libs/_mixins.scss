@@ -54,19 +54,3 @@
 	@return url("data:image/svg+xml;charset=utf8,#{$svg}");
 
 }
-
-// Generate link colors.
-@mixin linx ($link: _palette(fg), $visit: _palette(fg), $hover: _palette(bg), $active: _palette(bg)) {
-  a {
-    color: $link;
-    &:visited {
-      color: $visit;
-    }
-    &:hover {
-      color: $hover;
-    }
-    &:active {
-      color: $active;
-    }
-  }
-}

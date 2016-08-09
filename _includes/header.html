@@ -7,13 +7,10 @@
         <a href="#menu" class="menuToggle"><span>Menu</span></a>
         <div id="menu">
           <ul>
-            <li><a href="https://www.eventbrite.com/e/bootstrap-denton-community-mixer-tickets-26816584125" class="register">Register</a></li>
             <li><a href="#hero" class="hidden">Top</a></li>
+            <li><a href="https://www.eventbrite.com/e/bootstrap-denton-community-mixer-tickets-26816584125" class="register">Register</a></li>
             {% if page.layout == 'index' %}
-              <li><a href="#event" class="scrolly">Event</a></li>
-              <li><a href="#organizations" class="scrolly">Organizations</a></li>
-              <li><a href="#companies" class="scrolly">Companies</a></li>
-              <li><a href="#sponsors" class="scrolly">Sponsors</a></li>
+              <li><a href="#organizations" class="scrolly">Speakers</a></li>
               <li><a href="#faq" class="scrolly">FAQ</a></li>
             {% else %}
               <li><a href="{{ site.baseurl }}/" class="">Home</a></li>
