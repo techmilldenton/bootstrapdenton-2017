@@ -26,3 +26,8 @@
     twitter: panector
     facebook: PanEctor
     instagram: panector
+- sponsor:
+  name: Become a sponsor today!
+  site: /sponsorships
+  image: /images/speakers/sponsor.jpg
+  retina: 0

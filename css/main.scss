@@ -1846,6 +1846,38 @@ button,
 		}
 	}
 
+// Sponsors
+.sponsors {
+	margin-bottom: 2em !important;
+}
+.sponsorship {
+	.inner {
+		box-sizing: border-box;
+		border: 1px solid _palette(accent1, bg);
+		border-radius: 3px;
+		> * {
+			padding-left: 1em;
+			padding-right: 1em;
+		}
+		ul {
+			padding-left: 2em;
+		}
+		h3 {
+			background-color: _palette(accent1, bg);
+			color: _palette(accent1, fg);
+			text-align: center;
+			padding-top: 0.5em;
+			padding-bottom: 0.5em;
+		}
+		h4 {
+			border-bottom: 1px solid _palette(accent1, bg);
+			line-height: 1em;
+			padding-bottom: 1em;
+			text-align: center;
+		}
+	}
+}
+
 	/* Landing */
 
 	body.landing {
