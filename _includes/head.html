@@ -23,7 +23,11 @@
 
     <meta name="author" content="Bootstrap Denton">
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <meta property="og:image" content="http://www.bootstrapdenton.com/images/bd-og-1.png">
+    {% if page.image %}
+        <meta property="og:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}">
+    {% else %}
+        <meta property="og:image" content="http://www.bootstrapdenton.com/images/bd-og-1.png">
+    {% endif %}
     <meta property="og:type" content="website" /> 
     <meta property="twitter:creator" content="{{ site.twitter_username }}">
     <meta property="twitter:site" content="{{ site.twitter_username }}">
@@ -50,7 +54,11 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="{{ site.twitter_username }}">
     <meta name="twitter:creator" content="{{ site.twitter_username }}">
-    <meta name="twitter:image" content="http://www.bootstrapdenton.com/images/bd-og-1.png">
+    {% if page.image %}
+        <meta property="twitter:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}">
+    {% else %}
+        <meta property="twitter:image" content="https://www.bootstrapdenton.com/images/bd-og-1.png">
+    {% endif %}
 
     <!-- FAVICONS -->
     <link rel="apple-touch-icon" sizes="57x57" href="/images/favicons/apple-touch-icon-57x57.png">

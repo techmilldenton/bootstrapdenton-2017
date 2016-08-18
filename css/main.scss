@@ -99,6 +99,9 @@ a {
 	    color: _palette(accent1, bg);
 	  }
 	}
+	.style2 & {
+		color: _palette(accent1, bg) !important;
+	}
 	.style3 & {
 		&:hover {
 			color: #FFF;
