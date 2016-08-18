@@ -31,6 +31,11 @@
                   <a href="https://instagram.com/{{ sponsor.social.instagram }}" target="_blank"><i class="icon fa fa-instagram"></i></a>
                 </li>
               {% endif %}
+              {% if sponsor.social.github %}
+                <li>
+                  <a href="https://github.com/{{ sponsor.social.github }}" target="_blank"><i class="icon fa fa-github"></i></a>
+                </li>
+              {% endif %}
             </ul>
             {% endif %}
           </div>

@@ -26,6 +26,15 @@
     twitter: panector
     facebook: PanEctor
     instagram: panector
+- kubos:
+  name: Kubos
+  site: http://www.kubos.co
+  image: /images/speakers/kubos.jpg
+  retina: 1
+  social:
+    twitter: kubostech
+    facebook: kubostech
+    github: openkosmosorg
 - sponsor:
   name: Become a sponsor today!
   site: /sponsorships
