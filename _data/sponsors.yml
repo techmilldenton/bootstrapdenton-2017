@@ -8,15 +8,15 @@
     twitter: techmilldenton
     facebook: techmilldenton
     instagram: techmilldenton
-- harvest:
-  name: Harvest House
-  site: http://www.dentonharvesthouse.com
-  image: /images/speakers/harvesthouse.jpg
+- stoke:
+  name: Stoke
+  site: http://.stokedenton.com
+  image: /images/speakers/stoke.jpg
   retina: 1
   social:
-    twitter: HarvestHouseDTX
-    facebook: DentonHarvestHouse
-    instagram: harvesthousedenton
+    twitter: stokedenton
+    facebook: stokedenton
+    instagram: stokedenton
 - panector:
   name: Pan Ector
   site: http://www.panector.com/
