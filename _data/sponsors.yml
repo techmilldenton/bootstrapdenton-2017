@@ -35,6 +35,15 @@
     twitter: kubostech
     facebook: kubostech
     github: openkosmosorg
+- ftf:
+  name: From The Future
+  site: http://www.fromthefuturegames.com/
+  image: /images/speakers/fromthefuturegames.jpg
+  retina: 1
+  social:
+    twitter: fromfuturegames
+    facebook: fromthefuturegames
+    instagram: ftfgames
 - sponsor:
   name: Become a sponsor today!
   site: /sponsorships

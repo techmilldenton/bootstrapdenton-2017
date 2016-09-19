@@ -1932,6 +1932,14 @@ button,
 		}
 	}
 }
+.sponsor {
+	a {
+		&:hover {
+			border: 0;
+			text-decoration: none;
+		}
+	}
+}
 .job {
 	.inner {
 		h3, h4, & {
