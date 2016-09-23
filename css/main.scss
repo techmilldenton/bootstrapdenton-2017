@@ -1843,7 +1843,20 @@ button,
 		@include padding(6em, 0);
 		background-color: darken(_palette(bg), 8);
 		text-align: center;
-
+		.footer-menu {
+			li {
+				border-right: 2px solid _palette(fg-light);
+				padding: 0 1em;
+				&:last-child {
+					border-right: 0;
+				}
+				a {
+					//text-transform: uppercase;
+					color: _palette(accent1, bg);
+					line-height: 1em;
+				}
+			}
+		}
 		.icons {
 			font-size: 1.25em;
 

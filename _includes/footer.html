@@ -64,6 +64,16 @@
 
 <!-- FOOTER -->
 <footer id="footer">
+  <div class="footer-menu">
+    <ul class="icons">
+      <li><a class="page-link" href="/">Home</a></li>
+      {% for page in site.pages %}
+        {% if page.title %}
+          <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
   <ul class="icons">
     <li>
       {% include image.html src="/images/logos/footer-logo.png" alt=site.title retina=1 %}
