@@ -2,7 +2,7 @@
 title: Bootstrap Denton
 email: info@techmill.co
 description: > # this means to ignore newlines until "baseurl:"
-  Bootstrap Denton is a series of events designed to create networking opportunities, educate entrepreneurs, and support our growing startup community.
+  Bootstrap Denton is an annual creative tech mixer that showcases local companies and organizations while bringing together and supporting our growing startup / tech community.
 keywords: "bootstrap, denton, techmill, tech, startups, startup, coworking, entrepreneur, community"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.bootstrapdenton.com" # the base hostname & protocol for your site
@@ -19,7 +19,7 @@ markdown: kramdown
 # Analytics
 google_analytics: "UA-51689839-2"
 facebook_pixel: "6029086665797"
-add_this: "ra-559f4fceebea69d5"
+# add_this: "ra-559f4fceebea69d5"
 
 # Commenting
 disqus_shortname: "techmill"
