@@ -53,6 +53,15 @@
     twitter: square205
     facebook: square205
     instagram: square205
+- draw:
+  name: DrawAttention
+  site: http://www.drawattention.co
+  image: /images/speakers/drawattention.jpg
+  retina: 1
+  social:
+    twitter: drawattentionco
+    facebook: drawattentionco
+    instagram: drawattentionco
 - sponsor:
   name: Become a sponsor today!
   site: /sponsorships
