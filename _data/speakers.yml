@@ -13,11 +13,11 @@
   image: "/images/speakers/shaun_treat.jpg"
   retina: 1
 - stoke:
-  name: "Trey Bowles"
+  name: "Emmanuel Lopez"
   organization: "Stoke"
   description: "Stoke is a place for innovators, freelancers, and startups. It’s where ambition, technology, and a shared desire to change the world for the better can come together."
   site: "http://stokedenton.com"
-  image: "/images/speakers/trey_bowles.jpg"
+  image: "/images/speakers/emmanuel_lopez.jpg"
   retina: 1
 - nodeschool:
   name: "Dan Minshew"
