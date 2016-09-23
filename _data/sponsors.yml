@@ -57,7 +57,7 @@
   name: DrawAttention
   site: http://www.drawattention.co
   image: /images/speakers/drawattention.jpg
-  retina: 1
+  retina: 0
   social:
     twitter: drawattentionco
     facebook: drawattentionco
