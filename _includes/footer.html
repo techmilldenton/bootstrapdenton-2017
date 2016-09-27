@@ -9,8 +9,8 @@
       <div class="box">
         <div class="row uniform">
         {% for sponsor in site.data.sponsors %}
-          <div class="sponsor slide-{{ forloop.index }} 3u">
-            <a href="{{ sponsor.site }}" class="sponsor-link image fit">
+          <div class="sp slide-{{ forloop.index }} 3u">
+            <a href="{{ sponsor.site }}" class="sp-link image fit">
               {% include image.html src=sponsor.image alt=sponsor.name retina=sponsor.retina %}
             </a>
             <h3>{{ sponsor.title }}</h3>
@@ -29,6 +29,11 @@
               {% if sponsor.social.instagram %}
                 <li>
                   <a href="https://instagram.com/{{ sponsor.social.instagram }}" target="_blank"><i class="icon fa fa-instagram"></i></a>
+                </li>
+              {% endif %}
+              {% if sponsor.social.linkedin %}
+                <li>
+                  <a href="https://www.linkedin.com/{{ sponsor.social.linkedin }}" target="_blank"><i class="icon fa fa-linkedin"></i></a>
                 </li>
               {% endif %}
               {% if sponsor.social.github %}

@@ -62,6 +62,15 @@
     twitter: drawattentionco
     facebook: drawattentionco
     instagram: drawattentionco
+- bluesteele:
+  name: Blue Steele Solutions 
+  site: http://bluesteelesolutions.com
+  image: /images/speakers/bluesteele.png
+  retina: 0
+  social:
+    twitter: BlueSteeleTX
+    facebook: bluesteelesolutions
+    linkedin: company/3602450
 - sponsor:
   name: Become a sponsor today!
   site: /sponsorships

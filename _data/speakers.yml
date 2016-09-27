@@ -5,19 +5,19 @@
   site: "https://techmill.co"
   image: "/images/speakers/kyle_taylor.png"
   retina: 0
-- nerd_nite:
-  name: "Shaun Treat"
-  organization: "Nerd Nite Denton"
-  description: "Nerd Nite is a monthly event of 15-20-minute fun-yet-informative presentations on smart topics... with beer!"
-  site: "https://www.facebook.com/NerdNiteDenton"
-  image: "/images/speakers/shaun_treat.jpg"
-  retina: 1
 - stoke:
   name: "Emmanuel Lopez"
   organization: "Stoke"
   description: "Stoke is a place for innovators, freelancers, and startups. It’s where ambition, technology, and a shared desire to change the world for the better can come together."
   site: "http://stokedenton.com"
   image: "/images/speakers/emmanuel_lopez.jpg"
+  retina: 1
+- nerd_nite:
+  name: "Shaun Treat"
+  organization: "Nerd Nite Denton"
+  description: "Nerd Nite is a monthly event of 15-20-minute fun-yet-informative presentations on smart topics... with beer!"
+  site: "https://www.facebook.com/NerdNiteDenton"
+  image: "/images/speakers/shaun_treat.jpg"
   retina: 1
 - nodeschool:
   name: "Dan Minshew"
