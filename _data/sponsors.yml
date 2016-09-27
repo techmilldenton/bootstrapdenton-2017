@@ -11,8 +11,8 @@
 - stoke:
   name: Stoke
   site: http://.stokedenton.com
-  image: /images/speakers/stoke.jpg
-  retina: 1
+  image: /images/speakers/stoke.png
+  retina: 0
   social:
     twitter: stokedenton
     facebook: stokedenton
