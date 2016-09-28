@@ -10,13 +10,22 @@
     instagram: techmilldenton
 - stoke:
   name: Stoke
-  site: http://.stokedenton.com
+  site: http://stokedenton.com
   image: /images/speakers/stoke.png
   retina: 0
   social:
     twitter: stokedenton
     facebook: stokedenton
     instagram: stokedenton
+- readyrosie:
+  name: Ready Rosie
+  site: https://readyrosie.com
+  image: /images/speakers/readyrosie.jpg
+  retina: 1
+  social:
+    twitter: readyrosie
+    facebook: readyrosie
+    instagram: readyrosie
 - panector:
   name: Pan Ector
   site: http://www.panector.com/

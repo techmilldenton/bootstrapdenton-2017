@@ -7,6 +7,14 @@
   site: http://www.kubos.co/
   image: /images/speakers/marshall_culpepper.jpg
   retina: 0
+- readyrosie:
+  name: Emily Roden
+  title: Founder / CEO
+  company: Ready Rosie
+  desc: ReadyRosie is an early education tool that is currently helping schools and communities across the nation deepen and scale their parent engagement efforts by leveraging the power of video modeling and mobile technology to meet and equip parents where they are.
+  site: https://readyrosie.com
+  image: /images/speakers/emilyroden.jpg
+  retina: 1
 - ftf:
   name: Mike Christian
   title: CEO
