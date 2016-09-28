@@ -19,6 +19,13 @@
   site: "https://www.facebook.com/NerdNiteDenton"
   image: "/images/speakers/shaun_treat.jpg"
   retina: 1
+- dentonite:
+  name: Sara Button
+  organization: The Dentonite
+  description: The Dentonite is a lifestyle blog focused on connecting our creative community with quality content and resources to enhance your daily life.
+  site: http://www.thedentonite.com/
+  image: "/images/speakers/sara_button.jpg"
+  retina: 1
 - nodeschool:
   name: "Dan Minshew"
   organization: "NodeSchool Denton"
