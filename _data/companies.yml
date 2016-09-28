@@ -31,3 +31,11 @@
   site: http://www.gsati.com
   image: /images/speakers/jason_bodor.jpg
   retina: 1
+- allin:
+  name: John Moore
+  title: Chief Products Officer
+  company: ALL In Learning
+  desc: It’s overwhelming for teachers to get timely data and identify where students are struggling.  We make it easy to transform daily activities into instant reports, so teachers can help every student succeed. Engage all students. Act on the data. Reach every kid.
+  site: http://www.allinlearning.com
+  image: /images/speakers/john_moore.jpg
+  retina: 0
