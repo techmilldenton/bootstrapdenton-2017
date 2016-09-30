@@ -12,6 +12,13 @@
   site: "http://stokedenton.com"
   image: "/images/speakers/emmanuel_lopez.jpg"
   retina: 1
+- wwc:
+  name: "Juli James"
+  organization: "Women Who Code"
+  description: "Women Who Code is a non-profit dedicated to inspiring women to excel in technology careers, connecting amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it."
+  site: "http://www.meetup.com/Women-Who-Code-Dallas/events/224158706/"
+  image: "/images/speakers/juli_james.jpg"
+  retina: 1
 - nerd_nite:
   name: "Shaun Treat"
   organization: "Nerd Nite Denton"
@@ -33,13 +40,13 @@
   site: "http://nodeschool.io/denton-texas"
   image: "/images/speakers/dan_minshew.jpg"
   retina: 1
-- wwc:
-  name: "Juli James"
-  organization: "Women Who Code"
-  description: "Women Who Code is a non-profit dedicated to inspiring women to excel in technology careers, connecting amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it."
-  site: "http://www.meetup.com/Women-Who-Code-Dallas/events/224158706/"
-  image: "/images/speakers/juli_james.jpg"
-  retina: 1
+- twu:
+  name: "Dr. Tina Mims"
+  organization: "The Hub @ TWU"
+  description: "The TWU center for women in business, nicknamed 'The Hub', is on another historic Texas Woman’s University mission: To help women open, manage and succeed in creating new businesses."
+  site: "http://www.twu.edu/hub/"
+  image: "/images/speakers/tina_mims.jpg"
+  retina: 0
 - opendenton:
   name: "Jesse Hamner"
   organization: "Open Denton / What Works Cities"
@@ -47,10 +54,10 @@
   site: "https://www.opendenton.com"
   image: "/images/speakers/jesse_hamner.jpg"
   retina: 0
-- twu:
-  name: "Dr. Tina Mims"
-  organization: "The Hub @ TWU"
-  description: "The TWU center for women in business, nicknamed 'The Hub', is on another historic Texas Woman’s University mission: To help women open, manage and succeed in creating new businesses."
-  site: "http://www.twu.edu/hub/"
-  image: "/images/speakers/tina_mims.jpg"
+- wddi:
+  name: Alyssa Stevenson
+  organization: We Denton Do It
+  description: "One of the many goals at WeDentonDoIt.com is to create a hub of everything Denton, seeing it as an opportunity to benefit the city of Denton, while simultaneously creating an outlet for the creative productivity of those involved. The content of WeDentonDoIt is primarily made by the writers and creators, but hopes to encourage their readers to submit works of their own."
+  site: http://wedentondoit.com
+  image: "/images/speakers/alyssa_stevenson.jpg"
   retina: 0
