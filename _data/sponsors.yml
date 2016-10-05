@@ -80,6 +80,15 @@
     twitter: BlueSteeleTX
     facebook: bluesteelesolutions
     linkedin: company/3602450
+- audacity:
+  name: Audacity Brew House
+  site: http://www.audacitybrewhouse.com
+  image: /images/speakers/audacity.png
+  retina: 0
+  social:
+    twitter: AudacityBH
+    facebook: audacity.denton
+    instagram: audacitybrewhouse
 - sponsor:
   name: Become a sponsor today!
   site: /sponsorships
