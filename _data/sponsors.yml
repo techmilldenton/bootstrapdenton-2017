@@ -35,60 +35,60 @@
     twitter: panector
     facebook: PanEctor
     instagram: panector
-- kubos:
-  name: Kubos
-  site: http://www.kubos.co
-  image: /images/speakers/kubos.jpg
-  retina: 1
-  social:
-    twitter: kubostech
-    facebook: kubostech
-    github: openkosmosorg
-- ftf:
-  name: From The Future
-  site: http://www.fromthefuturegames.com/
-  image: /images/speakers/fromthefuturegames.jpg
-  retina: 1
-  social:
-    twitter: fromfuturegames
-    facebook: fromthefuturegames
-    instagram: ftfgames
-- s205:
-  name: Square205
-  site: http://square205.com/
-  image: /images/speakers/square205.jpg
-  retina: 0
-  social:
-    twitter: square205
-    facebook: square205
-    instagram: square205
-- draw:
-  name: DrawAttention
-  site: http://www.drawattention.co
-  image: /images/speakers/drawattention.jpg
-  retina: 0
-  social:
-    twitter: drawattentionco
-    facebook: drawattentionco
-    instagram: drawattentionco
-- bluesteele:
-  name: Blue Steele Solutions 
-  site: http://bluesteelesolutions.com
-  image: /images/speakers/bluesteele.png
-  retina: 0
-  social:
-    twitter: BlueSteeleTX
-    facebook: bluesteelesolutions
-    linkedin: company/3602450
-- audacity:
-  name: Audacity Brew House
-  site: http://www.audacitybrewhouse.com
-  image: /images/speakers/audacity.png
-  retina: 0
-  social:
-    twitter: AudacityBH
-    facebook: audacity.denton
-    instagram: audacitybrewhouse
+# - kubos:
+#   name: Kubos
+#   site: http://www.kubos.co
+#   image: /images/speakers/kubos.jpg
+#   retina: 1
+#   social:
+#     twitter: kubostech
+#     facebook: kubostech
+#     github: openkosmosorg
+# - ftf:
+#   name: From The Future
+#   site: http://www.fromthefuturegames.com/
+#   image: /images/speakers/fromthefuturegames.jpg
+#   retina: 1
+#   social:
+#     twitter: fromfuturegames
+#     facebook: fromthefuturegames
+#     instagram: ftfgames
+# - s205:
+#   name: Square205
+#   site: http://square205.com/
+#   image: /images/speakers/square205.jpg
+#   retina: 0
+#   social:
+#     twitter: square205
+#     facebook: square205
+#     instagram: square205
+# - draw:
+#   name: DrawAttention
+#   site: http://www.drawattention.co
+#   image: /images/speakers/drawattention.jpg
+#   retina: 0
+#   social:
+#     twitter: drawattentionco
+#     facebook: drawattentionco
+#     instagram: drawattentionco
+# - bluesteele:
+#   name: Blue Steele Solutions 
+#   site: http://bluesteelesolutions.com
+#   image: /images/speakers/bluesteele.png
+#   retina: 0
+#   social:
+#     twitter: BlueSteeleTX
+#     facebook: bluesteelesolutions
+#     linkedin: company/3602450
+# - audacity:
+#   name: Audacity Brew House
+#   site: http://www.audacitybrewhouse.com
+#   image: /images/speakers/audacity.png
+#   retina: 0
+#   social:
+#     twitter: AudacityBH
+#     facebook: audacity.denton
+#     instagram: audacitybrewhouse
 - sponsor:
   name: Become a sponsor today!
   site: /sponsorships
