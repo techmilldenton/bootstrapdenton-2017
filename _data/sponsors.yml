@@ -8,24 +8,16 @@
     twitter: techmilldenton
     facebook: techmilldenton
     instagram: techmilldenton
-- stoke:
-  name: Stoke
-  site: http://stokedenton.com
-  image: /images/speakers/stoke.png
-  retina: 0
-  social:
-    twitter: stokedenton
-    facebook: stokedenton
-    instagram: stokedenton
-- readyrosie:
-  name: Ready Rosie
-  site: https://readyrosie.com
-  image: /images/speakers/readyrosie.jpg
+    instagram: readyrosie
+- eastside:
+  name: East Side Social Club
+  site: http://eastsidedenton.com/
+  image: /images/speakers/eastside_logo.jpg
   retina: 1
   social:
-    twitter: readyrosie
-    facebook: readyrosie
-    instagram: readyrosie
+      twitter: eastsidedenton
+      facebook: eastsidedenton
+      instagram: eastsidedentontx
 - panector:
   name: Pan Ector
   site: http://www.panector.com/
@@ -72,7 +64,7 @@
 #     facebook: drawattentionco
 #     instagram: drawattentionco
 # - bluesteele:
-#   name: Blue Steele Solutions 
+#   name: Blue Steele Solutions
 #   site: http://bluesteelesolutions.com
 #   image: /images/speakers/bluesteele.png
 #   retina: 0
