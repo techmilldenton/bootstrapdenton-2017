@@ -1,9 +1,9 @@
 - techmill:
-  name: "Kyle Taylor"
+  name: "Kyle Taylor, President"
   organization: "TechMill"
   description: "Nonprofit that supports the local tech startup community by through meetups, networking resources, and educational workshops."
   site: "https://techmill.co"
-  image: "/images/speakers/kyle_taylor_new.png"
+  image: "/images/speakers/kyle_taylor_new.jpg"
   retina: 0
 - upventur:
   name: "Craig Pettigrew, CEO"
