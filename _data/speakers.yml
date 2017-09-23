@@ -3,61 +3,19 @@
   organization: "TechMill"
   description: "Nonprofit that supports the local tech startup community by through meetups, networking resources, and educational workshops."
   site: "https://techmill.co"
-  image: "/images/speakers/kyle_taylor.png"
+  image: "/images/speakers/kyle_taylor_new.png"
   retina: 0
-- stoke:
-  name: "Emmanuel Lopez"
-  organization: "Stoke"
-  description: "Stoke is a place for innovators, freelancers, and startups. It’s where ambition, technology, and a shared desire to change the world for the better can come together."
-  site: "http://stokedenton.com"
-  image: "/images/speakers/emmanuel_lopez.jpg"
-  retina: 1
-- wwc:
-  name: "Juli James"
-  organization: "Women Who Code"
-  description: "Women Who Code is a non-profit dedicated to inspiring women to excel in technology careers, connecting amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it."
-  site: "http://www.meetup.com/Women-Who-Code-Dallas/events/224158706/"
-  image: "/images/speakers/juli_james.jpg"
-  retina: 1
-- nerd_nite:
-  name: "Shaun Treat"
-  organization: "Nerd Nite Denton"
-  description: "Nerd Nite is a monthly event of 15-20-minute fun-yet-informative presentations on smart topics... with beer!"
-  site: "https://www.facebook.com/NerdNiteDenton"
-  image: "/images/speakers/shaun_treat.jpg"
-  retina: 1
-- dentonite:
-  name: Sara Button
-  organization: The Dentonite
-  description: The Dentonite is a lifestyle blog focused on connecting our creative community with quality content and resources to enhance your daily life.
-  site: http://www.thedentonite.com/
-  image: "/images/speakers/sara_button.jpg"
-  retina: 1
-- nodeschool:
-  name: "Dan Minshew"
-  organization: "NodeSchool Denton"
-  description: "NodeSchool Denton is a chapter of the international NodeSchool.io, creating a container for learning Node.js - used in web programming, robotics, and enabling new kinds of networked applications."
-  site: "http://nodeschool.io/denton-texas"
-  image: "/images/speakers/dan_minshew.jpg"
-  retina: 1
-- twu:
-  name: "Dr. Tina Mims"
-  organization: "The Hub @ TWU"
-  description: "The TWU center for women in business, nicknamed 'The Hub', is on another historic Texas Woman’s University mission: To help women open, manage and succeed in creating new businesses."
-  site: "http://www.twu.edu/hub/"
-  image: "/images/speakers/tina_mims.jpg"
+- upventur:
+  name: "Craig Pettigrew, CEO"
+  organization: "Upventur"
+  description: "Upventur is a social start up for the adventurer in all of us. We're an active community of outdoor enthusiasts and hobbyists who want to share and grow experiences related to our our adventures."
+  site: "https://www.upventur.com"
+  image: "/images/speakers/craig_pettigrew.jpg"
   retina: 0
-- opendenton:
-  name: "Jesse Hamner"
-  organization: "Open Data Day @ UNT"
-  description: "Open data is becoming more essential to municipalities every day, Denton included. Being one of the first cities in the What Works Cities initiative launched by Bloomberg Philanthropies, Denton is leading the way in community engagement and using open data to make the city a better place for everyone."
-  site: "https://www.opendenton.com"
-  image: "/images/speakers/jesse_hamner.jpg"
+- flyp:
+  name: "Rick Pixler, VP of Global Operations"
+  organization: "flyp, inc."
+  description: "Flyp is a mobile app that lets you use multiple numbers on your smartphone. Connect with the important people in your life on your terms by using a different phone number for work, social, family, shopping and beyond."
+  site: "http://getflyp.com"
+  image: "/images/speakers/rick_pixler.jpg"
   retina: 0
-- wddi:
-  name: Glen Farris
-  organization: We Denton Do It
-  description: "One of the many goals at WeDentonDoIt.com is to create a hub of everything Denton, seeing it as an opportunity to benefit the city of Denton, while simultaneously creating an outlet for the creative productivity of those involved. The content of WeDentonDoIt is primarily made by the writers and creators, but hopes to encourage their readers to submit works of their own."
-  site: http://wedentondoit.com
-  image: "/images/speakers/glen_farris.jpg"
-  retina: 1
