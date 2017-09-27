@@ -1547,13 +1547,18 @@ button,
 		@include vendor('display', 'flex');
 		@include vendor('flex-direction', 'column');
 		@include vendor('justify-content', 'center');
-		background-image: url("/images/2015-group-banner.jpg");
+		background-image: url("/images/backgrounds/bootstrap2016_01.jpg");
+        background-size: 100%;
 		cursor: default;
 		height: 100vh;
 		min-height: 35em;
 		overflow: hidden;
 		position: relative;
 		text-align: center;
+
+        .inner {
+            background-color: rgba(51, 74, 108, 0.30);
+        }
 
 		h2 {
 			@include vendor('transform', 'scale(1)');
@@ -1566,7 +1571,7 @@ button,
 			z-index: 1;
 
 			span {
-				color: _palette(accent1, bg);
+				color: #2f82d5;      // _palette(accent1, bg);
 			}
 
 			&:before, &:after {
