@@ -14,8 +14,15 @@
   retina: 0
 - flyp:
   name: "Rick Pixler, VP of Global Operations"
-  organization: "flyp, inc."
-  description: "Flyp is a mobile app that lets you use multiple numbers on your smartphone. Connect with the important people in your life on your terms by using a different phone number for work, social, family, shopping and beyond."
+  organization: "FLYP"
+  description: "FLYP is a mobile app that lets you use multiple numbers on your smartphone. Connect with the important people in your life on your terms by using a different phone number for work, social, family, shopping and beyond."
   site: "http://getflyp.com"
   image: "/images/speakers/rick_pixler.jpg"
+  retina: 0
+- nectar:
+  name: "Imran Charania, Founder & CEO"
+  organization: "Nectar"
+  description: "Nectar's mission is to transition the human race towards a sustainable food system by revolutionizing the agriculture industry with its intelligent, automated farms."
+  site: "http://www.nectaragriculture.com"
+  image: "/images/speakers/imran_charania.jpg"
   retina: 0
