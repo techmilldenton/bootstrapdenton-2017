@@ -26,3 +26,10 @@
   site: "http://www.nectaragriculture.com"
   image: "/images/speakers/imran_charania.jpg"
   retina: 0
+- 7feather:
+  name: "Michelle Keefer, Co-Founder and VP of Operations"
+  organization: "7Feathers"
+  description: "7Feathers is a non-profit music and arts organization with a mission to build community by uniting and advocating for music, art, family, and nature - partnering with local businesses and other non-profits to throw events and festivals to raise awareness, funds, or supplies."
+  site: "http://7featherstx.org"
+  image: "/images/speakers/michelle_keefer.jpg"
+  retina: 0
