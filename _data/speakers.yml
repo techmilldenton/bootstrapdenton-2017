@@ -33,3 +33,10 @@
   site: "http://7featherstx.org"
   image: "/images/speakers/michelle_keefer.jpg"
   retina: 0
+- rowdy:
+  name: "Sujey Franco, Co-Founder & Executive Director"
+  organization: "Rowdy Bees"
+  description: "Rowdy Bees is a creative community service group with a focus on beautifying our community, promoting individual entrepreneurship, spearheading gardening initiatives, and creating prosperous environments for Bees, our neighborhoods, and the entire Denton community."
+  site: "https://www.instagram.com/rowdybees"
+  image: "/images/speakers/sujey_franco.jpg"
+  retina: 0
