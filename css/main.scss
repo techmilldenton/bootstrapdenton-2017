@@ -76,28 +76,28 @@ a {
 // Specific
 a {
 	color: _palette(accent1, bg);
-  &:visited {
-    color: _palette(accent1, bg);
-  }
-  &:hover {
-    color: _palette(accent1, fg);
+	&:visited {
+		color: _palette(accent1, bg);
+	}
+	&:hover {
+		color: _palette(accent1, fg);
 		border-bottom: 1px dotted #FFF;
-  }
-  &:active {
-    color: _palette(accent1, bg);
-  }
+	}
+	&:active {
+		color: _palette(accent1, bg);
+	}
 	.style1 & {
 		color: _palette(accent1, fg-bold);
-	  &:visited {
-	    color: _palette(accent1, fg-bold);
-	  }
-	  &:hover {
-	    color: _palette(accent1, bg);
+		&:visited {
+			color: _palette(accent1, fg-bold);
+		}
+		&:hover {
+			color: _palette(accent1, bg);
 			border-bottom: 1px dotted _palette(accent1, fg-bold);
-	  }
-	  &:active {
-	    color: _palette(accent1, bg);
-	  }
+		}
+		&:active {
+			color: _palette(accent1, bg);
+		}
 	}
 	.style2 & {
 		color: _palette(accent1, bg) !important;
@@ -1548,7 +1548,7 @@ button,
 		@include vendor('flex-direction', 'column');
 		@include vendor('justify-content', 'center');
 		background-image: url("/images/backgrounds/bootstrap2016_01.jpg");
-        background-size: 100%;
+		background-size: cover;
 		cursor: default;
 		height: 100vh;
 		min-height: 35em;
@@ -1556,9 +1556,10 @@ button,
 		position: relative;
 		text-align: center;
 
-        .inner {
-            background-color: rgba(51, 74, 108, 0.30);
-        }
+		.inner {
+	    padding-top: 1em;
+			background-color: rgba(0,0,0,0.75);
+		}
 
 		h2 {
 			@include vendor('transform', 'scale(1)');
@@ -1571,7 +1572,7 @@ button,
 			z-index: 1;
 
 			span {
-				color: #2f82d5;      // _palette(accent1, bg);
+				color: #E49D4C;      // _palette(accent1, bg);
 			}
 
 			&:before, &:after {
@@ -1973,39 +1974,39 @@ button,
 	}
 }
 
-	/* Landing */
+/* Landing */
 
-	body.landing {
+body.landing {
+	#page-wrapper {
+		@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("../../images/banner.jpg")'));
+		background-attachment: fixed;
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		padding-top: 0;
+	}
+
+	#footer {
+		background-color: darken(transparentize(_palette(bg), 0.1), 8);
+	}
+}
+
+body.is-mobile {
+	&.landing {
 		#page-wrapper {
+			background: none;
+		}
+
+		#banner,
+		.wrapper.style4 {
 			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("../../images/banner.jpg")'));
-			background-attachment: fixed;
 			background-position: center center;
 			background-repeat: no-repeat;
 			background-size: cover;
-			padding-top: 0;
 		}
 
 		#footer {
-			background-color: darken(transparentize(_palette(bg), 0.1), 8);
+			background-color: darken(_palette(bg), 8);
 		}
 	}
-
-	body.is-mobile {
-		&.landing {
-			#page-wrapper {
-				background: none;
-			}
-
-			#banner,
-			.wrapper.style4 {
-				@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("../../images/banner.jpg")'));
-				background-position: center center;
-				background-repeat: no-repeat;
-				background-size: cover;
-			}
-
-			#footer {
-				background-color: darken(_palette(bg), 8);
-			}
-		}
-	}
+}
