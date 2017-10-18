@@ -41,6 +41,11 @@
                   <a href="https://github.com/{{ sponsor.social.github }}" target="_blank"><i class="icon fa fa-github"></i></a>
                 </li>
               {% endif %}
+              {% if sponsor.social.website %}
+                <li>
+                  <a href="{{ sponsor.social.website }}"><i class="icon fa fa-link"></i></a>
+                </li>
+              {% endif %}
             </ul>
             {% endif %}
           </div>
