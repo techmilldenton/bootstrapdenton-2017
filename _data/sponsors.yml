@@ -53,6 +53,15 @@
   social:
     twitter: VERUS_RE
     facebook: VERUSREALESTATE
+- readyrosie:
+  name: Ready Rosie
+  site: https://readyrosie.com
+  image: /images/speakers/readyrosie.jpg
+  retina: 1
+  social:
+    twitter: readyrosie
+    facebook: readyrosie
+    instagram: readyrosie
 - sponsor:
   name: Become a sponsor today!
   site: /sponsorships
