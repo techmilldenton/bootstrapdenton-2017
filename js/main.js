@@ -67,6 +67,12 @@
 			visibleClass: 'is-menu-visible'
 		});
 
+		// Equalize sponsors.
+		$('#sponsors .row.uniform').imagesLoaded( function() {
+		  // images have loaded, now equalize.
+		  $(this).equalize();
+		});
+
 		// Header.
 		if (skel.vars.IEVersion < 9)
 		$header.removeClass('alt');
