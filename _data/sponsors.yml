@@ -27,15 +27,38 @@
     twitter: panector
     facebook: PanEctor
     instagram: panector
-# - kubos:
-#   name: Kubos
-#   site: http://www.kubos.co
-#   image: /images/speakers/kubos.jpg
-#   retina: 1
-#   social:
-#     twitter: kubostech
-#     facebook: kubostech
-#     github: openkosmosorg
+- s205:
+  name: Square205
+  site: http://square205.com/
+  image: /images/speakers/square205.jpg
+  retina: 0
+  social:
+    twitter: square205
+    facebook: square205
+    instagram: square205
+- kubos:
+  name: Kubos
+  site: http://www.kubos.co
+  image: /images/speakers/kubos.jpg
+  retina: 1
+  social:
+    twitter: kubostech
+    facebook: kubostech
+    github: openkosmosorg
+- verus:
+  name: Verus
+  site: https://www.v-re.com/
+  image: /images/speakers/verus_small.png
+  retina: 1
+  social:
+    twitter: VERUS_RE
+    facebook: VERUSREALESTATE
+- sponsor:
+  name: Become a sponsor today!
+  site: /sponsorships
+  image: /images/speakers/sponsor.jpg
+  retina: 1
+
 # - ftf:
 #   name: From The Future
 #   site: http://www.fromthefuturegames.com/
@@ -45,15 +68,6 @@
 #     twitter: fromfuturegames
 #     facebook: fromthefuturegames
 #     instagram: ftfgames
-# - s205:
-#   name: Square205
-#   site: http://square205.com/
-#   image: /images/speakers/square205.jpg
-#   retina: 0
-#   social:
-#     twitter: square205
-#     facebook: square205
-#     instagram: square205
 # - draw:
 #   name: DrawAttention
 #   site: http://www.drawattention.co
@@ -81,8 +95,3 @@
 #     twitter: AudacityBH
 #     facebook: audacity.denton
 #     instagram: audacitybrewhouse
-- sponsor:
-  name: Become a sponsor today!
-  site: /sponsorships
-  image: /images/speakers/sponsor.jpg
-  retina: 0
