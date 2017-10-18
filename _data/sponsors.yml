@@ -67,6 +67,8 @@
   site: /sponsorships
   image: /images/speakers/sponsor.jpg
   retina: 1
+  social:
+    website: /sponsorships
 
 # - ftf:
 #   name: From The Future
