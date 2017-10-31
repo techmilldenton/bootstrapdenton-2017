@@ -72,6 +72,13 @@
     twitter: readyrosie
     facebook: readyrosie
     instagram: readyrosie
+- bearded:
+  name: The Bearded Monk
+  site: http://www.beardedmonk.com
+  image: /images/speakers/bearded-monk.jpg
+  retina: 0
+  social:
+    twitter: beardedmonkdn10
 - sponsor:
   name: Become a sponsor today!
   site: /sponsorships
